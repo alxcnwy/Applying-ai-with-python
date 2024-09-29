@@ -1,0 +1,6 @@
+# ignore model files
+*.pt
+*.keras
+
+# ignore venv
+venv/*

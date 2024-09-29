@@ -1,0 +1,12 @@
+tensorflow==2.10.0  
+torch==2.0.0        
+segment-anything    
+Pillow==9.2.0       
+numpy==1.23.5       
+pandas==1.5.0       
+scikit-learn==1.1.1 
+xgboost==1.6.1      
+matplotlib==3.6.0   
+seaborn==0.12.1     
+opencv-python==4.6.0 
+ultralytics==8.0.0  
