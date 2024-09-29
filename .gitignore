@@ -6,6 +6,6 @@
 venv/*
 
 # ipy checkpoints
-code/.ipynb_checkpoints/*
+**/.ipynb_checkpoints/
 
 .DS_Store
