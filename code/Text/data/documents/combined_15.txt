@@ -1,0 +1,20 @@
+Talk ID: 15
+Speaker ID: 14
+
+--- Talk Data ---
+Talk ID: 15
+Title: Great Expectations About Data Quality
+Speaker Name: Ariella Rink
+Speaker Profile URL: https://2024.za.pycon.org/users/AriellaRink/
+Talk URL: https://2024.za.pycon.org/talks/41-great-expectations-about-data-quality/
+
+Abstract:
+A story about the City of Cape Town Data Science Branch’s quest to develop a framework for measuring and monitoring data quality; what worked, what didn’t, and what we learnt along the way.
+Testing out popular data quality packages from the Python ecosystem (Great Expectations, Soda) and a roll-your-own approach, we contended with both generic and domain-specific measures of data quality.
+I'll begin the talk with a brief background to the Data Science Branch and provide some context for why we embarked on the data quality mission. I'll then present an introduction to the study of data quality, before moving on to our implementation in Python using the packages described above, discussing the pros and cons of each approach. I'll wrap up the talk by discussing our future plans and summarizing the major learnings we gained along the way.
+This talk is intended for anyone who has faced questions about data quality in their own work, and emerged more or less unscathed. It is hoped that the presentation provides insight to both the audience and speaker by generating discussion about other data practitioners’ experiences in this realm.
+--- Speaker Data ---
+Photo URL: No photo available
+Bio Part 1: Ariella Rink is an SPO Data Analyst at the City of Cape Town. She holds a Doctoral degree in Statistical Ecology from the University of Cape Town. Before joining the City of Cape Town, Ariella was an Application Engineer at Lifecheq, a fintech startup. She is interested in quantitative data analysis, data curation, and systems theory.
+Name: Ariella Rink
+Profile URL: https://2024.za.pycon.org/users/AriellaRink/

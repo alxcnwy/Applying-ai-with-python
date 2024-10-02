@@ -1,0 +1,1 @@
+ a tool like that is always best when the question you're asking is please remind me of how i do this which i i could do i could look up how to do it but right now i've forgotten whether the method is called foo or bar or how you what the shape of the api is does it use a builder object or a constructor or a factory or

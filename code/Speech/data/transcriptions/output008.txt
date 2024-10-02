@@ -1,0 +1,1 @@
+ It perfectly. And like, how many times are you looking for like, oh, what was I doing this morning? I was looking for a begin marker and I was looking for an end marker. And so begin is blah, blah, blah, search for begin. This is the begin token. And then the next line I type E and it completes the whole line with end instead of begin. That's a very simple example. So I'm.

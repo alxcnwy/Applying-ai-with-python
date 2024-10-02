@@ -1,0 +1,21 @@
+Talk ID: 16
+Speaker ID: 15
+
+--- Talk Data ---
+Talk ID: 16
+Title: Made you look: Using Siamese Neural Networks for Building Change Detection at the City of Cape Town
+Speaker Name: Jolanda Becker
+Speaker Profile URL: https://2024.za.pycon.org/users/jolanda/
+Talk URL: https://2024.za.pycon.org/talks/42-made-you-look-using-siamese-neural-networks-for-building-change-detection-at-the-city-of-cape-town/
+
+Abstract:
+What is this talk about?
+One of the most important processes undertaken by a Municipal Government in South Africa is keeping cadastral information (property) up to date. This is an important dataset not only for planning the work of the municipality, such as the ongoing provision of water and electricity, but also has important implications for property rates, the taxes that local government levies to provide basic services.
+For several years, the City of Cape Town has been using a digital surface modelling (DSM) approach to detect significant changes in property height, and then through manual review, identifying meaningful changes to properties. In collaboration with the Data Science branch, the City's Valuations Department has taken things to the next level by employing deep learning to automatically identify property changes of interest.
+In this talk, we will describe this work, both from a technical perspective, as well as how we have applied the model developed to realise value in a complex operating environment.
+Who is this talk for?
+Anyone interested in remote sensing, deep learning and the practical applications thereof. The talk will also be of interest to anyone curious in the application of (relatively) advanced data science in local government.
+--- Speaker Data ---
+Photo URL: No photo available
+Name: Jolanda Becker
+Profile URL: https://2024.za.pycon.org/users/jolanda/

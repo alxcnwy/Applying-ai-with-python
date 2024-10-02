@@ -1,0 +1,20 @@
+Talk ID: 19
+Speaker ID: 18
+
+--- Talk Data ---
+Talk ID: 19
+Title: Adventures in Garbage Collection
+Speaker Name: Bruce Merry
+Speaker Profile URL: https://2024.za.pycon.org/users/bmerry/
+Talk URL: https://2024.za.pycon.org/talks/49-adventures-in-garbage-collection/
+
+Abstract:
+Most of the time, garbage collection is an invisible process one can forget about - but what happens when it goes wrong? In this presentation I'll describe how CPython manages garbage, and some challenges that has caused me in my day-to-day work. I'll talk about ways to monitor and improve the GC performance to reduce latency, how to debug surprising issues, and how to make your unit tests use less memory.
+No prior knowledge of/experience with garbage collection is expected.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/bmerry
+Bio Part 1: github profile:https://github.com/bmerry
+Bio Part 2: Bruce Merry is a senior software developer at the South African Radio Astronomy Observatory (SARAO), developing Python software for the MeerKAT radio telescope. He specialises in high performance computing including networking and GPU computing. He earned his PhD in Computer Science from the University of Cape Town in 2007, after which he spent 3 years at ARM in the UK. In 2011 he returned to South Africa to complete a post-doctoral fellowship at UCT before joining SARAO.
+Name: Bruce Merry
+Profile URL: https://2024.za.pycon.org/users/bmerry/

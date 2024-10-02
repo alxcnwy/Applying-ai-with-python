@@ -1,0 +1,35 @@
+speaker_id,github_url,username,name,public_repos,total_stars,most_starred_repo_name,most_starred_repo_stars,last_commit_datetime,hours_since_last_commit,followers,following,created_at,company,bio,location,blog,email
+8,https://github.com/sixfeetup,sixfeetup,Six Feet Up,127,210,scaf,79,2024-09-25T17:04:43+00:00,164.0354158066667,19,0,2011-09-08T20:39:11+00:00,,"Accelerating IMPACT with App Dev, AI & Big Data","Fishers, IN",http://www.sixfeetup.com,info@sixfeetup.com
+20,https://github.com/gijzelaerr,gijzelaerr,Gijs Molenaar,172,748,python-snap7,648,2024-09-17T16:20:59+00:00,356.8318311875,188,111,2010-07-08T11:22:39+00:00,spotify,"astro software composer, music brewer, beer programmer, senior system engineer @spotify",Amsterdam - Windhoek,http://pythonic.nl,gijsmolenaar@gmail.com
+21,https://github.com/luisdza,luisdza,Luis de Sousa,8,3,aerialmzansi-website,2,2024-08-22T13:24:29+00:00,983.7772850216667,23,112,2014-04-12T05:41:28+00:00,@Syeop,Creating and dreaming,"Johannesburg, South Africa",,
+22,https://github.com/singhsegv,singhsegv,Rajdeep,56,51,kitaab_bot,12,2024-09-23T09:53:19+00:00,219.31917223972223,63,209,2015-03-13T17:19:37+00:00,,"Software Engineering, Robotics and Computer Vision.",Bangalore,singhsegv.github.io,iamrajdeep1008@gmail.com
+32,https://github.com/drnlm,drnlm,Neil Muller,30,5,matplotlib-py3,1,2024-09-29T14:11:56+00:00,71.0211160636111,7,0,2011-02-28T09:19:10+00:00,,,"Cape Town, South Africa",,
+26,https://github.com/Divya063,Divya063,Divya Rani,190,17,distributedKV,4,2024-08-29T13:34:16+00:00,815.735070125,134,82,2016-08-24T09:28:22+00:00,,"
+    Contributor @kubernetes-sigs | CKA | GSoC'19 @CERN | Outreachy '17 @opendatakit
+
+
+
+",,,
+25,https://github.com/adeline-pepela,adeline-pepela,Adeline Makokha,39,0,,0,2024-09-16T12:50:07+00:00,384.48877001611106,13,9,2021-06-08T13:20:20+00:00,,"Software Developer, 2X AWS Certified, Telecommunication and IT",Kenya,,
+31,https://github.com/sheenarbw,sheenarbw,sheenarbw,76,22,tutorial-airflow,6,2024-10-02T13:00:38+00:00,0.3476021816666667,77,12,2011-03-30T11:39:05+00:00,,,,https://sheenaoc.com,
+17,https://github.com/sheenarbw,sheenarbw,sheenarbw,76,22,tutorial-airflow,6,2024-10-02T13:00:38+00:00,0.37692676583333334,77,12,2011-03-30T11:39:05+00:00,,,,https://sheenaoc.com,
+29,https://github.com/czue,czue,Cory Zue,67,1016,celery-progress,464,2024-09-26T13:58:03+00:00,143.44807943666666,343,41,2009-03-24T15:34:08+00:00,"SaaS Pegasus, Dimagi",Web developer and product maker. @dimagi,"Cape Town, South Africa",http://www.coryzue.com/,cory@coryzue.com
+30,https://github.com/sheenarbw,sheenarbw,sheenarbw,76,22,tutorial-airflow,6,2024-09-23T12:49:09+00:00,216.62495496194444,77,12,2011-03-30T11:39:05+00:00,,,,https://sheenaoc.com,
+24,https://github.com/emlearn,emlearn,,2,546,emlearn,483,2024-10-01T00:07:57+00:00,37.31298744111111,23,0,2018-07-18T12:41:12+00:00,,Machine Learning for Microcontrollers and Embedded Devices,,https://emlearn.org,
+13,https://github.com/cityofcapetown,cityofcapetown,City of Cape Town,44,20,loadshedding-signal-bot,4,2024-09-28T11:56:43+00:00,97.5403705588889,37,0,2018-07-03T06:38:25+00:00,,"Public code from the City of Cape Town. Maintained by the Data Science branch in Organisational Performance Monitoring Dept., Future Planning & Resilience Dir.","Cape Town, South Africa",https://www.capetown.gov.za,
+27,https://github.com/coderquill,coderquill,Rupali Kavale,75,3,topstar,3,2024-09-23T00:53:24+00:00,228.62767554277778,4,2,2017-07-29T09:42:56+00:00,,,,,
+28,https://github.com/Kanhalelor,Kanhalelor,Robson,54,2,CSS-Flexbox-Layout,1,2024-07-12T12:31:38+00:00,1969.0142931358332,10,32,2019-02-27T16:55:09+00:00,,🖥️ Writing Code | 💡 In love with uncertainty & appreciation ✨,Swakopmund,https://kanhalelor.github.io/,
+1,https://github.com/alxcnwy,alxcnwy,Alex Conway,18,104,Deep-Neural-Networks-for-Video-Classification,44,2024-10-02T11:26:04+00:00,2.1146393786111113,44,15,2014-09-02T18:24:14+00:00,,"making something people want | ⟠ ₿ | 
+ycombinator
+ W22 | won awards for AI projects from companies like Mercedes-Benz, NTT Japan, etc",Cape Town,www.numberboost.com,
+16,https://github.com/jbeyers,jbeyers,Johan Beyers,42,57,django-prelaunch,36,2024-08-14T04:57:28+00:00,1184.6092403975,15,8,2010-06-28T10:04:31+00:00,Juizi CC,"Electronic engineer, builder of web software, Maker.","Stellenbosch, South Africa",http://johan.beyers.co.za/,johan@juizi.com
+2,https://github.com/JustNunuz,JustNunuz,Nunudzai Mrewa,10,0,,0,2024-09-13T13:33:13+00:00,456.01818747666664,4,37,2019-12-23T09:07:22+00:00,,Hi there! I'm a security researcher and pentester.,,,
+11,https://github.com/DuToitSpies,DuToitSpies,Du Toit Spies,11,1,cython,1,2024-08-10T18:13:17+00:00,1267.3555367611111,0,0,2021-03-31T11:46:28+00:00,University of Cape Town,,Cape Town,,
+12,https://github.com/kode2go,kode2go,kode2go,74,7,nithecs,2,2024-06-01T22:11:01+00:00,2943.424766140555,6,1,2017-06-23T19:03:23+00:00,,,,,brsbin001@myuct.ac.za
+6,https://github.com/schalkventer,schalkventer,Schalk Venter,171,165,schalkventer.me,17,2024-09-29T08:11:23+00:00,77.48498521722223,365,504,2015-09-13T08:55:34+00:00,Co-founder at @fedsa,"💻 Software Engineering
+| 🎨 Interaction Design 
+| 📚 Mentoring and Teaching 
+| 🧠 Destigmatizing Mental Illness","Cape Town, South Africa",https://schalkventer.me,venterschalk@gmail.com
+10,https://github.com/sjnarmstrong,sjnarmstrong,Sholto Armstrong,27,131,gray-code-structured-light,112,2024-04-09T17:40:16+00:00,4220.015618723889,20,7,2018-12-29T20:55:43+00:00,Capitec Bank,,"Johannesburg, South Africa",https://sjnarmstrong.com/,
+9,https://github.com/nawtybean,nawtybean,Shaun De Ponte,16,4,KickstarterPrediction,2,2024-09-25T11:53:39+00:00,169.79982544333333,5,3,2018-06-12T12:05:02+00:00,Private,Data Engineer and Software Engineer,South Africa,deponte.co.za,
+4,https://github.com/ruankie,ruankie,Ruan Pretorius,71,112,ecrivai,68,2024-10-02T00:42:55+00:00,13.010268252222223,19,10,2019-12-05T13:17:03+00:00,@melio-consulting,Data Scientist,South Africa,https://ruankie.github.io/,

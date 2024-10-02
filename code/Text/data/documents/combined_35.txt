@@ -1,0 +1,16 @@
+Talk ID: 35
+Speaker ID: 34
+
+--- Talk Data ---
+Talk ID: 35
+Title: Professional Software Isn’t
+Speaker Name: Marco Slaviero
+Speaker Profile URL: https://2024.za.pycon.org/users/ThinkstCanary/
+Talk URL: https://2024.za.pycon.org/talks/57-professional-software-isnt/
+
+Abstract:
+A talk by our platinum sponsor, Thinks Canary
+--- Speaker Data ---
+Photo URL: No photo available
+Name: Marco Slaviero
+Profile URL: https://2024.za.pycon.org/users/ThinkstCanary/

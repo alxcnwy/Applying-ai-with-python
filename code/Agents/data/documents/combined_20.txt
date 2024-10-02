@@ -1,0 +1,26 @@
+Talk ID: 20
+Speaker ID: 19
+
+--- Talk Data ---
+Talk ID: 20
+Title: & robotics for all!
+Speaker Name: :David Campey
+Speaker Profile URL: https://2024.za.pycon.org/users/campey/
+Talk URL: https://2024.za.pycon.org/talks/51-robotics-for-all/
+
+Abstract:
+Coding & robotics is the new subject in the DBE curriculum...
+and the 4IR is robot powered...
+So the robots are coming!
+But what, how, where?
+:David shares how CoderLevelUp.org are helping create a creative learning ecosystem for physical computing & robotics, from low floors to high ceilings with very wide walls.
+Low floor: simulators & education bots (block based & Python) for pico and 2 wheeled robots from Microsoft Research, 
+ - with ramps: code clubs, training & community
+High ceilings: open source robots hosted at science institutes, being made in collab with local makers for research and development
+ - with long ladders: sims, tutorials, challenges and hosted bots
+Wide walls: robots underwater, planetary Roving, in space, and even flying airships
+Let's see how we can liberate robots for all!
+--- Speaker Data ---
+Photo URL: No photo available
+Name: :David Campey
+Profile URL: https://2024.za.pycon.org/users/campey/

@@ -1,0 +1,28 @@
+Talk ID: 5
+Speaker ID: 5
+
+--- Talk Data ---
+Talk ID: 5
+Title: Leveraging the NLTK library for Translation: A Case Study of Dyula-French Translation
+Speaker Name: Alta Saunders
+Speaker Profile URL: https://2024.za.pycon.org/users/zietsmana/
+Talk URL: https://2024.za.pycon.org/talks/21-leveraging-the-nltk-library-for-translation-a-case-study-of-dyula-french-translation/
+
+Abstract:
+In the field of natural language processing (NLP), transformer models and the Transformers library have started to become the go to for translation and other NLP tasks. However, resource requirements and data restrictions might not be favourable for transformer models and the use of other python libraries and resources should be considered. This talk will explore the potential of the Natural Language Toolkit (NLTK) python library in building an effective translation model, specifically for languages with limited training data.
+In this talk we will look at an overview of  the NLTK library tools available for NLP tasks such as translation, emphasising their simplicity, efficiency, and accessibility relative to resource-intensive transformer counterparts.
+To highlight how the NLTK library can be used for translation, we will look at a practical case study: translating Dyula to French, a scenario underscored by Dyula's status as an under-resourced language with limited translation data. Here, NLTK's tools will be leveraged to construct a Lexical model for translation, illustrating how NLTK mitigates challenges posed by limited datasets. By focussing on an under-resourced language, this talk will highlight how these limitations can be overcome by utilizing the tools provided within the NLTK library to create a translation model.
+The talk will further highlight the benefits of using the NLTK library for translation by highlighting the advantages of the NLTK library such as ease of use, lower resource requirements and robustness with smaller datasets. To highlight the benefits a comparison will be made between the implementing a translation model using the popular Transformer library, looking at the memory usage, latency and translation performance.
+The simplicity and ease of use of the NLTK library makes it an excellent choice for both beginners and experienced practitioners in NLP, with this talk highlighting the capabilities of this library for NLP tasks.
+Below is a brief break down of the talk structure:
+Overview of NLP and translation models.
+Discussing of  the challenges and limitations of translation tasks that are often seen.
+Overview of the NLTK library, with a deeper dive in how it can be utilised for translation.
+Showcase how to create a translation model through a practical case study: Translating Dyula to French.
+Comparison of the benefits of using the NLTK library compared to other popular translation libraries and tools, highlight when it can be beneficial to rather use the NLTK library.
+Questions
+--- Speaker Data ---
+Photo URL: No photo available
+Bio Part 1: Alta Saunders is a Data Scientist at Praelexis.
+Name: Alta Saunders
+Profile URL: https://2024.za.pycon.org/users/zietsmana/
