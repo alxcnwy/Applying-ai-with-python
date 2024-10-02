@@ -1,0 +1,26 @@
+Talk ID: 2
+Speaker ID: 2
+
+--- Talk Data ---
+Talk ID: 2
+Title: Harnessing the Power of Community: Lessons from Speedrunning for the Python Ecosystem and Beyond
+Speaker Name: Nunudzai Mrewa
+Speaker Profile URL: https://2024.za.pycon.org/users/JustNunuz/
+Talk URL: https://2024.za.pycon.org/talks/13-harnessing-the-power-of-community-lessons-from-speedrunning-for-the-python-ecosystem-and-beyond/
+
+Abstract:
+Speedrunning, the art of completing video games as quickly as possible, has evolved into a vibrant community that exemplifies the power of community-driven innovation and collaboration. This talk delves into the fascinating world of speedrunners, highlighting how their collective efforts uncover hidden game mechanics and vulnerabilities that often elude traditional testing methods. By openly sharing knowledge and tools, speedrunners have not only broken records but also provided invaluable insights for game developers in areas such as testing, QA, and game balance.
+The talk will explore the transferable skills and approaches of the speedrunning community, demonstrating how these principles can be applied to other industries. l will discuss how the collaborative spirit, open sharing of knowledge, and innovative problem-solving techniques can drive advancements specifically in software development  and cybersecurity, and beyond. By understanding the methodologies and mindset of speedrunners, attendees will gain practical insights into fostering innovation and achieving greater outcomes through community and collaboration.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/JustNunuz
+Bio Part 1: Twitter Profile link:https://x.com/_absolute_z3r0
+Bio Part 2: Other Social:https://www.linkedin.com/in/nunuz/
+Bio Part 3: github profile:https://github.com/JustNunuz
+Bio Part 4: Hey there, I'm Nunudzai, but most folks call me Nunu.
+Bio Part 5: I'm all about diving into the latest tech that amps up device security. Picture me as your go-to Cybersecurity Analyst, teaming up with all kinds of cool folks to keep things safe and sound.
+Bio Part 6: In my past gig, I kicked things off as the Founding IT Security Engineer and Trainer at Twenty8 Labs over in Malaysia. These days, you can find me flexing my cybersecurity muscles at the Pumpkin Hotel in Zimbabwe. Oh, and on the side, I'm also known to rock the mic as a cybersecurity speaker, trainer, and educator.
+Bio Part 7: Teaching and learning are my jam.
+Bio Part 8: I firmly believe there's no such thing as an uncrackable system. That's why, as a cybersec pro, I'm always hunting for vulnerabilities and figuring out how to squash 'em. I thrive on sharing what I know and soaking up knowledge from all corners, especially if it's something new outside my usual turf.
+Name: Nunudzai Mrewa
+Profile URL: https://2024.za.pycon.org/users/JustNunuz/

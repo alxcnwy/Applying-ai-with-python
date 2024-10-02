@@ -1,0 +1,25 @@
+Talk ID: 22
+Speaker ID: 21
+
+--- Talk Data ---
+Talk ID: 22
+Title: Duck, Duck, Python: OLAP Data with DuckDB
+Speaker Name: Luis de Sousa
+Speaker Profile URL: https://2024.za.pycon.org/users/luisdza/
+Talk URL: https://2024.za.pycon.org/talks/53-duck-duck-python-olap-data-with-duckdb/
+
+Abstract:
+🦆 DuckDB is an in-process OLAP SQL database that can use Python to supercharge your data analysis. It integrates seamlessly with Pandas, letting you process data locally and quickly with SQL, making it an excellent alternative for performance-heavy tasks.
+🦆 This session will show you how DuckDB makes working with large datasets and complex queries a breeze. We’ll also compare it to Pandas and Polars, highlighting where DuckDB shines regarding speed and scalability. Plus, we’ll dive into practical examples, showing how easy it is to use DuckDB for data ingestion and querying in Python.
+🦆 If you’re a data scientist or analyst looking to speed up your workflows and make your data analysis more efficient, DuckDB might be the solution you’re looking for.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/luisdza
+Bio Part 1: Twitter Profile link:https://x.com/luis_de_sousa
+Bio Part 2: Other Social:https://www.linkedin.com/in/luisdza/
+Bio Part 3: github profile:https://github.com/luisdza
+Bio Part 4: Luis de Sousa is an experienced data and analytics consultant based in Johannesburg, South Africa, who is passionate about data-driven technologies. With 17 years of consulting expertise, he specialises in designing and building tailored data solutions on-premises and in the cloud.
+Bio Part 5: Luis has worked across various industries, including Financial Services, Insurance, Manufacturing, Education, and Media. He has a track record of successfully helping clients with data warehousing, data integration, business intelligence, generative AI and analytics, consistently delivering impactful results.
+Bio Part 6: Beyond his consulting work, Luis is an active contributor to the local data community. He leads the Johannesburg R user group and PyData Johannesburg, where he shares his expertise and fosters engagement with other data professionals.
+Name: Luis de Sousa
+Profile URL: https://2024.za.pycon.org/users/luisdza/

@@ -1,0 +1,10 @@
+Speaker ID: 24
+Talk ID: 25
+Photo URL: No photo available
+GitHub: https://github.com/jonnor/
+Bio Part 1: github profile:https://github.com/jonnor/
+Bio Part 2: Jon is a Machine Learning Engineer specialized in IoT systems. He has a Master in Data Science and a Bachelor in Electronics Engineering,and has published several papers on applied Machine Learning, including topics like TinyML, Wireless Sensor Systems and Audio Classification.
+Bio Part 3: These days Jon is co-founder and Head of Data Science at Soundsensing, a leading provider for condition monitoring solutions for commercial buildings and HVAC systems.He is also the creator and maintainer of emlearn, an open-source inference engine for microcontrollers and embedded systems.
+Name: Jon Nordby
+Profile URL: https://2024.za.pycon.org/users/jonnor/
+Speaker ID: 24

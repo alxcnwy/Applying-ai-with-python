@@ -1,0 +1,32 @@
+Talk ID: 17
+Speaker ID: 16
+
+--- Talk Data ---
+Talk ID: 17
+Title: Kafka in practice: Lessons learned at Takealot
+Speaker Name: Johan Beyers
+Speaker Profile URL: https://2024.za.pycon.org/users/johan_beyers/
+Talk URL: https://2024.za.pycon.org/talks/43-kafka-in-practice-lessons-learned-at-takealot/
+
+Abstract:
+Overview:
+Apache Kafka is a great event streaming and real-time data platform, and is the backbone of event streaming at Takealot. However, as with any powerful tool, you have to use it thoughtfully.
+Over the years working with Kafka, we've learned a lot of lessons. Johan will take you through the good, the bad and the ugly: Where Kafka shines, where it can be misused successfully, and where it's a bad fit.
+Topics:
+An overview of what Kafka does well.
+Tradeoffs that you need to be aware of when using Kafka.
+Where Kafka might not be the right answer.
+Design choices that will help you get the most out of Kafka.
+Python tools and libraries for Kafka.
+Guidance on evolving your Kafka message schemas.
+Specific edge cases where Kafka bit us.
+Target Audience and Takeaways:
+The talk is aimed at developers working with microservices and interesting in using event streaming with Python. They will get actionable advice on evaluating and setting up Kafka, as well as some guidance to recognise the pitfalls.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/jbeyers
+Bio Part 1: Twitter Profile link:https://x.com/johanbeyers
+Bio Part 2: github profile:https://github.com/jbeyers
+Bio Part 3: Johan has been developing software for a long time, and also builds physical things. He is a senior engineer at Takealot.
+Name: Johan Beyers
+Profile URL: https://2024.za.pycon.org/users/johan_beyers/

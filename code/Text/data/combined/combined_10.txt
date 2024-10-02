@@ -1,0 +1,23 @@
+Talk ID: 10
+Speaker ID: 9
+
+--- Talk Data ---
+Talk ID: 10
+Title: A Novel Way of Creating Multi-Tenant Apps using Django... No Third Party Packages Apply!
+Speaker Name: Shaun De Ponte
+Speaker Profile URL: https://2024.za.pycon.org/users/nawtybean3d/
+Talk URL: https://2024.za.pycon.org/talks/35-a-novel-way-of-creating-multi-tenant-apps-using-django-no-third-party-packages-apply/
+
+Abstract:
+Imagine building a software-as-a-service platform where each client has their own secure space, yet managing it all feels like juggling too many balls at once. How do you ensure that each tenant’s data remains isolated, yet accessible, without losing your sanity—or compromising on performance?
+Join Shaun De Ponte as he addresses this challenge head-on with his innovative approach to constructing multi-tenant applications using Django's Admin, enhanced with Jazzmin for sleek styling. In this session, Shaun will showcase how to effortlessly manage tenant separation through sub-domains, ensuring crystal-clear data isolation and streamlined CRUD operations, all within a database-agnostic framework.
+Whether you're just dipping your toes into multi-tenancy or seeking to refine your existing approach, this talk will equip you with the tools and insights to confidently build scalable, secure multi-tenant applications. Plus, you’ll leave with a ready-to-use cookie cutter project, giving you a head start on your next big idea.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/nawtybean
+Bio Part 1: Other Social:https://www.linkedin.com/in/shaundeponte/
+Bio Part 2: github profile:https://github.com/nawtybean
+Bio Part 3: As a Senior Data Engineer at Calybre, Shaun De Ponte leverages his Python, Azure, and Machine Learning skills to design, build, and optimize data pipelines and architectures for various clients and projects. He has 5 years of experience in data engineering and software development, working with diverse technologies and domains such as Django, Web Development, NLP, and OCR.
+Bio Part 4: Shaun holds an MSc in Business Analytics from Aston University, where he focused on Machine Learning and its applications in business problems. He is also the founder and software engineer of BrightInvoice, an open-source invoice generator solution for small businesses. Shaun is passionate about data and its potential to create value and insights for organizations and individuals. He is always eager to learn new tools and techniques, and to collaborate with other data enthusiasts and professionals.
+Name: Shaun De Ponte
+Profile URL: https://2024.za.pycon.org/users/nawtybean3d/

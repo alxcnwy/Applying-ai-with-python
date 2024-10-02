@@ -1,0 +1,11 @@
+Talk ID: 19
+Speaker ID: 18
+Talk ID: 19
+Title: Adventures in Garbage Collection
+Speaker Name: Bruce Merry
+Speaker Profile URL: https://2024.za.pycon.org/users/bmerry/
+Talk URL: https://2024.za.pycon.org/talks/49-adventures-in-garbage-collection/
+
+Abstract:
+Most of the time, garbage collection is an invisible process one can forget about - but what happens when it goes wrong? In this presentation I'll describe how CPython manages garbage, and some challenges that has caused me in my day-to-day work. I'll talk about ways to monitor and improve the GC performance to reduce latency, how to debug surprising issues, and how to make your unit tests use less memory.
+No prior knowledge of/experience with garbage collection is expected.

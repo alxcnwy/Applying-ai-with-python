@@ -1,0 +1,12 @@
+Talk ID: 27
+Speaker ID: 26
+Talk ID: 27
+Title: Building a Code Search Engine: Using NLP to Find Similar Methods Across Libraries
+Speaker Name: Divya Rani
+Speaker Profile URL: https://2024.za.pycon.org/users/Divya063/
+Talk URL: https://2024.za.pycon.org/talks/50-building-a-code-search-engine-using-nlp-to-find-similar-methods-across-libraries/
+
+Abstract:
+A developer may decide to implement a library despite the existence of similar libraries, taking into account factors such as computational performance, language or platform dependency, and accuracy. Therefore, there are several libraries with overlapped functionalities.
+In this talk audience will learn how to build a code search engine using Natural Language Processing (NLP) techniques. We'll explore how NLP can be applied using Python's Natural Language Toolkit (NLTK) to function documentation and signatures to uncover similarities between methods across different libraries, enabling developers to find the most suitable code for their needs.
+The talk assumes some Python knowledge; NLP knowledge is not required as a brief overview will be given during the talk.

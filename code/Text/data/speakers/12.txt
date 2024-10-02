@@ -1,0 +1,11 @@
+Speaker ID: 12
+Talk ID: 13
+Photo URL: No photo available
+GitHub: https://github.com/kode2go
+Bio Part 1: github profile:https://github.com/kode2go
+Bio Part 2: Mr Binjamin (pronounced Bin-ya-meen) Barsch is the lead software engineer at the Centre for High Performance Computing (CHPC),which forms part of the CSIR. He has engineering degrees from Stellenbosch and UCT. He has worked in the fields of electronic engineering, data science, and software engineering. His current role at the CHPC focuses on the design and development of software systems and infrastructure. He also manages DevOps processes and automated deployment. In addition to his technical roles, he actively contributes to training initiatives, such as teaching data science and robotics.
+Bio Part 3: In his spare time he tries to automate everything in his home, prevent his son from kitchen "experiments", and stop his rabbits escaping their pen!
+Bio Part 4: LinkedIn Profile:https://www.linkedin.com/in/binjamin-barsch-43036216a/
+Name: Binjamin Barsch
+Profile URL: https://2024.za.pycon.org/users/bbarsch/
+Speaker ID: 12

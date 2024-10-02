@@ -1,0 +1,22 @@
+Talk ID: 33
+Speaker ID: 32
+
+--- Talk Data ---
+Talk ID: 33
+Title: PyCon Africa & PyConZA 2025 discussion
+Speaker Name: Neil Muller
+Speaker Profile URL: https://2024.za.pycon.org/users/drnlmza/
+Talk URL: https://2024.za.pycon.org/talks/58-pycon-africa-pyconza-2025-discussion/
+
+Abstract:
+PyCon Africa & PyConZA 2025
+PyCon Africa will be held in South Africa in 2025.
+This is a discussion about options for how to manage both PyCon Africa & PyConZA in 2025, potentially as a joint conference and the trade-offs that will require.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/drnlm
+Bio Part 1: github profile:https://github.com/drnlm
+Bio Part 2: bitbucket profile:https://bitbucket.org/drnlm/
+Bio Part 3: Myself, some of the time.
+Name: Neil Muller
+Profile URL: https://2024.za.pycon.org/users/drnlmza/

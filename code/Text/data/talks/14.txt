@@ -1,0 +1,16 @@
+Talk ID: 14
+Speaker ID: 13
+Talk ID: 14
+Title: You don't need a data service, you just need an object store and some JSON files
+Speaker Name: Gordon Inggs
+Speaker Profile URL: https://2024.za.pycon.org/users/gordon.inggs@capetown.gov.za/
+Talk URL: https://2024.za.pycon.org/talks/40-you-dont-need-a-data-service-you-just-need-an-object-store-and-some-json-files/
+
+Abstract:
+What are you talking about?
+In this talk, I will describe an approach to building highly scalable services that is both extremely reliable and dirt cheap to run. The essence of our approach is eschewing popular service frameworks such as Flask, and instead sweating the HTTP API of object stores, such as those made available by large cloud providers, or on-premise options such as Minio or Ceph, along with supporting infrastructure such as data pipelines and content delivery networks.
+To illustrate this concept, I'll talk through the architecture of the City's open source
+Service Alert API
+, and how we provide a near real time data API which is well specified using an OpenAPI spec, but is really just a few JSON files in AWS's S3.
+Who is this for?
+This should be interesting to anyone that is nervous about having to support a large user base, but has important information that they need to make available. For small teams or those lacking DevOps capacity, we believe this is an extremely viable approach. It's also potentially a cautionary tale about what happens when the hubris of Man is left unchecked.

@@ -1,0 +1,39 @@
+Talk ID: 26
+Speaker ID: 25
+
+--- Talk Data ---
+Talk ID: 26
+Title: Building a Thriving Tech Community
+Speaker Name: Adeline Makokha
+Speaker Profile URL: https://2024.za.pycon.org/users/amakokha/
+Talk URL: https://2024.za.pycon.org/talks/34-building-a-thriving-tech-community/
+
+Abstract:
+Description of the Talk
+In this talk, I will explore the pivotal role that tech communities play in bridging the gap between training and employment. I'll share insights on how these communities provide essential resources like networking, knowledge sharing, exposure to job opportunities, and mentorship. The audience will gain a deeper understanding of how these elements can transform careers and empower young people to thrive in the tech industry. By the end of the session, they will be equipped with practical strategies to engage with or build tech communities that foster growth, collaboration, and long-term success in the tech field.
+This talk is not just about identifying the challenges; it's about offering solutions. I'll cover the real-life impact of tech communities, sharing stories of young professionals who have successfully transitioned from learning to employment through community involvement. The audience will leave with actionable insights and a renewed sense of purpose, ready to contribute to or start tech communities that can make a meaningful difference in the lives of young people across Africa.
+Audience
+My audience consists of students, techies, engineers, and developers who are either starting their journey in the tech industry or are looking to advance their careers. These are individuals who are eager to learn, grow, and make meaningful contributions to the tech landscape.
+What will they get out of it?
+By attending this talk, the audience will gain a clear understanding of how tech communities can be a powerful tool for career advancement. They will learn how to leverage these communities to enhance their skills, expand their professional networks, and stay ahead in the rapidly evolving tech industry.
+They will walk away with practical strategies for finding and participating in tech communities that align with their goals. They will also discover how these communities can provide mentorship, job opportunities, and a platform for continuous learning. Ultimately, they will be empowered to take proactive steps in their careers, transforming their potential into real, impactful success in the tech world.
+What will I cover?
+The Importance of Tech Communities:
+I'll begin by explaining the critical role that tech communities play in bridging the gap between education and employment. This includes how these communities foster networking, knowledge sharing, and mentorship, which are vital for career growth.
+Overcoming Career Challenges:
+I will address common challenges faced by students, techies, engineers, and developers, such as skill gaps, career stagnation, and limited access to job opportunities. I'll share strategies on how being part of a tech community can help overcome these hurdles.
+Practical Steps for Engagement:
+The talk will also provide practical advice on how to find, join, and actively participate in tech communities. I’ll share real-life success stories of individuals who have leveraged these communities to advance their careers and make significant contributions to the tech field.
+Building Your Own Community:
+For those interested in taking a leadership role, I’ll cover the basics of starting and growing a tech community, including tips on attracting members, organizing events, and fostering a collaborative environment.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/adeline-pepela
+Bio Part 1: github profile:https://github.com/adeline-pepela
+Bio Part 2: Am passionate to see young people in my generation actualize the vast learning and working opportunities emerging with modern technology.
+Bio Part 3: Especially, I lead and mentor tech community initiatives that seek to equally include the participation of young people into cloud technology ecosystems in East Africa.
+Bio Part 4: I leverage my networks, skills and influence to inspire and guide, to nurture talent and empower, to foster a collaborative environment, and to create opportunities for the young within the tech community.
+Bio Part 5: As a dedicated mobilizer and mentor, I bring a wealth of experience and expertise in the fields of Cloud and Telecommunication Engineering. Whether leading teams through the full project lifecycle or mentoring aspiring professionals, my commitment is to excellence, professionalism and inclusion.
+Bio Part 6: Additionally, I have extensive experience and proficiency in emerging technologies, leveraging Amazon Web Services (AWS) to architect scalable and resilient solutions. I bring a strong understanding of technology principles and track record of object-oriented approach for innovation and efficiency when executing projects
+Name: Adeline Makokha
+Profile URL: https://2024.za.pycon.org/users/amakokha/

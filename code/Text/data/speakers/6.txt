@@ -1,0 +1,11 @@
+Speaker ID: 6
+Talk ID: 7
+Photo URL: No photo available
+GitHub: https://github.com/schalkventer
+Bio Part 1: Twitter Profile link:https://x.com/schalkventerdev
+Bio Part 2: Other Social:https://www.linkedin.com/schalkventer
+Bio Part 3: github profile:https://github.com/schalkventer
+Bio Part 4: Schalk is a software engineer and product design consultant working on various personal, commercial, and open-source projects. He usually finds himself at the intersection of interaction design and engineering, having done contract work for National Treasury, The Google Foundation, Replit, Sea Monster Entertainment, Seedstars, CSS-Tricks, and various others. He has lectured in a senior capacity at the Academy of Digital Arts, codeX, Open Window, and the University of Pretoria, and co-created the Interaction Design degree at Cape Town Creative Academy. He also co-founded Front-end Development South Africa (FEDSA) and South African Product Design (ZAPD).
+Name: Schalk Venter
+Profile URL: https://2024.za.pycon.org/users/schalkventer/
+Speaker ID: 6

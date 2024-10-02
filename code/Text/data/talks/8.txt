@@ -1,0 +1,12 @@
+Talk ID: 8
+Speaker ID: 7
+Talk ID: 8
+Title: Bridging Language Barriers: Making Programming Education Accessible to All
+Speaker Name: Mthetho Sovara
+Speaker Profile URL: https://2024.za.pycon.org/users/msovara/
+Talk URL: https://2024.za.pycon.org/talks/32-bridging-language-barriers-making-programming-education-accessible-to-all/
+
+Abstract:
+In a diverse and multilingual country like South Africa, the transformative power of programming should be accessible to everyone, regardless of their native language. In a post-COVID world, where digital uptake and transformation have accelerated, the Centre for High-Performance Computing (CHPC) is spearheading an initiative to make programming education more inclusive. By translating our summer school training materials covering Python, High-Performance Computing (HPC) concepts, and Research Software Engineering applications into various native languages, we aim to break down language barriers and enable non-native English speakers to engage with emerging technologies.
+The hybrid format of the CHPC summer school training has enabled access for over 700 postgraduate students and researchers from South African universities and scientific institutions each year, with this number continuing to grow. Combining both in-person and online sessions allows students from all regions, including those in remote or underserved areas, to participate fully. By offering training materials in multiple languages, we package the content in a way that resonates with all South Africans, enabling them to own programming and engage with it in their mother tongue. This inclusive approach aims to make programming and technology education available and enjoyable for everyone.
+This talk will delve into the technical and cultural challenges of translating programming languages, explore the methodologies we have adopted, and highlight the impact of this project on local communities. By broadening access to Python and related tools, we aim to empower more people to learn to code and develop innovative solutions that reflect their cultural contexts. Whether you're a developer, educator, or advocate for diversity in tech, this session will inspire you to consider how language can transform and broaden the impact of programming.

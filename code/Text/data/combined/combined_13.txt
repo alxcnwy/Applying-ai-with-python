@@ -1,0 +1,23 @@
+Talk ID: 13
+Speaker ID: 12
+
+--- Talk Data ---
+Talk ID: 13
+Title: Streamlining HPC Operations: Integrating Django Helpdesk in Resource-Constrained Environments
+Speaker Name: Binjamin Barsch
+Speaker Profile URL: https://2024.za.pycon.org/users/bbarsch/
+Talk URL: https://2024.za.pycon.org/talks/39-streamlining-hpc-operations-integrating-django-helpdesk-in-resource-constrained-environments/
+
+Abstract:
+Django helpdesk is a general purpose ticketing system that can be used in a variety of applications. This talk examines the deployment of Django Helpdesk as a crucial component of the software stack used for large-scale HPC system deployments in resource-constrained environments. The HPC Ecosystems Project, spearheaded by the Centre for High Performance Computing (CHPC) is dedicated to deploying HPC cyber-infrastructure to SKA partner sites across Africa and providing comprehensive HPC System Administrator training throughout the continent.
+Over the past decade, this project has successfully deployed 35 HPC systems across Africa. The latest iteration of the software stack has focused on using a blackbox approach to deployment utilizing OpenHPC. To complement this, a similar approach is being adopted for the user support interface, incorporating ticketing and helpdesk functionalities. Django Helpdesk was chosen for this role, representing a pivotal step in refining our deployment strategy to enhance helpdesk operations and user support.
+Django Helpdesk is a powerful web-based ticketing system that offers several advantages for HPC environments. This talk will explore the key benefits of Django Helpdesk, including its flexibility, user-friendly interface, and robust capabilities. By comparing it with other ticketing tools commonly used in HPC settings, we will highlight its strengths and limitations. The discussion will provide insights into the deployment process and demonstrate how Django Helpdesk can be effectively utilized to improve support workflows and user interactions. Attendees will leave with practical knowledge on deploying Django Helpdesk in general and a deeper understanding of its critical role in advancing user support strategies. The application of Django Helpdesk is by no means specific to HPC and therefore attendees might find this ticketing system for their own needs.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/kode2go
+Bio Part 1: github profile:https://github.com/kode2go
+Bio Part 2: Mr Binjamin (pronounced Bin-ya-meen) Barsch is the lead software engineer at the Centre for High Performance Computing (CHPC),which forms part of the CSIR. He has engineering degrees from Stellenbosch and UCT. He has worked in the fields of electronic engineering, data science, and software engineering. His current role at the CHPC focuses on the design and development of software systems and infrastructure. He also manages DevOps processes and automated deployment. In addition to his technical roles, he actively contributes to training initiatives, such as teaching data science and robotics.
+Bio Part 3: In his spare time he tries to automate everything in his home, prevent his son from kitchen "experiments", and stop his rabbits escaping their pen!
+Bio Part 4: LinkedIn Profile:https://www.linkedin.com/in/binjamin-barsch-43036216a/
+Name: Binjamin Barsch
+Profile URL: https://2024.za.pycon.org/users/bbarsch/

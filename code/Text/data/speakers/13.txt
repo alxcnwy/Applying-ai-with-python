@@ -1,0 +1,13 @@
+Speaker ID: 13
+Talk ID: 14
+Photo URL: No photo available
+Twitter: https://twitter.com/Gord1ei
+Fediverse: https://fosstodon.org/@Gord1i
+GitHub: https://github.com/cityofcapetown/service-alerts-connector/
+Bio Part 1: Twitter Profile link:https://twitter.com/Gord1ei
+Bio Part 2: Fediverse Profile link:https://fosstodon.org/@Gord1i
+Bio Part 3: github profile:https://github.com/cityofcapetown/service-alerts-connector/
+Bio Part 4: Dr. Gordon Inggs is a Principal Data Engineer at the City of Cape Town, known for working on large, complex socio-technical systems. Raised among the penguins of Simon’s Town, he completed his undergraduate and Masters in Electrical Engineering at the University of Cape Town in 2011, followed by a Ph.D. in Computer Engineering at Imperial College London, focusing on heterogeneous systems, which was awarded in 2016. After his PhD, he returned to Cape Town to work for Amazon Web Services in 2016. He worked on the EC2 product, contributing to some of the largest computing systems on the planet. In 2018, he joined the City of Cape Town, initially as the city’s second data scientist. However, in 2021, he recognised his true calling, data engineering, and transitioned to that role, dedicating himself to practical data solutions for the City’s residents. Dr Inggs has a unique combination of advanced technical knowledge, combined with deep understanding of the social contexts within which these technologies might play a role.
+Name: Gordon Inggs
+Profile URL: https://2024.za.pycon.org/users/gordon.inggs@capetown.gov.za/
+Speaker ID: 13

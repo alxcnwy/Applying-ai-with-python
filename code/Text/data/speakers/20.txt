@@ -1,0 +1,11 @@
+Speaker ID: 20
+Talk ID: 21
+Photo URL: No photo available
+Twitter: http://twitter.com/gijzelaerr
+GitHub: https://github.com/gijzelaerr
+Bio Part 1: Twitter Profile link:http://twitter.com/gijzelaerr
+Bio Part 2: github profile:https://github.com/gijzelaerr
+Bio Part 3: Software composer, music brewer, beer flyer, drone programmer.  Former Scientific Software Engineer at SKA, now Senior System Engineer at Spotify.
+Name: Gijs Molenaar
+Profile URL: https://2024.za.pycon.org/users/gijsm/
+Speaker ID: 20

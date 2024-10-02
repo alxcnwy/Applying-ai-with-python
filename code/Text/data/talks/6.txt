@@ -1,0 +1,46 @@
+Talk ID: 6
+Speaker ID: 6
+Talk ID: 6
+Title: Creating Personalised Images with Python's Stable Diffusion
+Speaker Name: None
+Speaker Profile URL: None
+Talk URL: https://2024.za.pycon.org/talks/22-creating-personalised-images-with-pythons-stable-diffusion/
+
+Abstract:
+Title
+Creating Personalised Images with Python's Stable Diffusion
+Abstract
+In the fascinating world of generative AI, leveraging
+Stable Diffusion
+to create stunning, personalised images from simple text prompts is a game-changer. While many tools convert prompts to images, the true magic lies in training machine learning models on custom images or objects, allowing for the generation of unique visuals that incorporate these trained elements. In this talk, we'll make use of the Python
+Diffusers
+library, which is the go-to library for state-of-the-art pretrained diffusion models. You can also explore more about it on
+GitHub
+.
+Topics Covered:
+Introduction to Stable Diffusion
+:
+Understanding the theory and mechanics behind Stable Diffusion.
+Exploring why it's a transformative tool in the generative AI space.
+Training Custom Models
+:
+Practical steps and code snippets to train models with custom images.
+Using images of ourselves or objects to create personalised AI-generated images.
+Refiner Models
+:
+Overview of refiner models and their importance.
+How to integrate refiner models to enhance image quality.
+Existing Stable Diffusion Tools
+:
+Overview of popular tools available for Stable Diffusion.
+Comparisons and use cases for different tools.
+Legal and Licensing Considerations
+:
+Understanding the legal landscape of generative AI.
+Adhering to licensing requirements and best practices when using Stable Diffusion.
+Implementation and Practical Use Cases
+:
+Detailed walkthroughs of setting up and using Stable Diffusion.
+Examples of how personalised images can enhance creative projects.
+Target Audience
+This talk is ideal for both seasoned AI practitioners and those new to the field, offering valuable insights and hands-on techniques to enhance creative projects with custom Stable Diffusion models. Join us as we explore the potential of generative AI and share our experiences with the PyCon community 🚀

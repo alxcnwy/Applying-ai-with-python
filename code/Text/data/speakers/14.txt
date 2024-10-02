@@ -1,0 +1,7 @@
+Speaker ID: 14
+Talk ID: 15
+Photo URL: No photo available
+Bio Part 1: Ariella Rink is an SPO Data Analyst at the City of Cape Town. She holds a Doctoral degree in Statistical Ecology from the University of Cape Town. Before joining the City of Cape Town, Ariella was an Application Engineer at Lifecheq, a fintech startup. She is interested in quantitative data analysis, data curation, and systems theory.
+Name: Ariella Rink
+Profile URL: https://2024.za.pycon.org/users/AriellaRink/
+Speaker ID: 14

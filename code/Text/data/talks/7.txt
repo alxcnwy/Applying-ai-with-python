@@ -1,0 +1,12 @@
+Talk ID: 7
+Speaker ID: 6
+Talk ID: 7
+Title: Mental Illness and Vulnerability in Tech
+Speaker Name: Schalk Venter
+Speaker Profile URL: https://2024.za.pycon.org/users/schalkventer/
+Talk URL: https://2024.za.pycon.org/talks/27-mental-illness-and-vulnerability-in-tech/
+
+Abstract:
+In his seminal “Noonday Demon: An Atlas of Depression”, Andrew Solomon remarked that there is an entire world of silent “agonizing lives in invisible wheelchairs, dressed in invisible bodycasts".
+It is becoming increasingly apparent that the tech sector is no exception. In the recent “Mental Health in Tech Survey" (https://osmihelp.org/research.html) only 30.7% of respondents indicated that they “feel comfortable discussing mental health with coworkers”. This seems unsurprising, given that when mental health was discussed only 33.6% of respondents “experienced or observed a supportive or well-handled response”.
+As someone with a history of mental illness myself, I spent the last year conducting interviews with individuals struggling with mental health in the tech sector. In addition, I also interviewed legal and therapeutic practitioners to create a list of avenues of support you are legally entitled to as a South African citizen. In this talk, I hope to share some insights uncovered during this personal investigation.

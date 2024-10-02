@@ -1,0 +1,10 @@
+Speaker ID: 4
+Talk ID: 4
+Photo URL: No photo available
+GitHub: https://github.com/ruankie
+Bio Part 1: github profile:https://github.com/ruankie
+Bio Part 2: gitlab profile:https://github.com/ruankie
+Bio Part 3: Hi, I'm Ruan, a Data Scientist from melio.aiSome of my favourite things in life are coffee, Python and AI.Lately, I've been diving into LangChain and LLM agents. I've also been investigating how to better monitor and evaluate LLM applications.I'm excited to share what I've learned and connect with fellow Python enthusiasts!
+Name: Ruan Pretorius
+Profile URL: https://2024.za.pycon.org/users/ruankie/
+Speaker ID: 4

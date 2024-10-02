@@ -1,0 +1,31 @@
+Talk ID: 3
+Speaker ID: 3
+Talk ID: 3
+Title: It’s About Time: Time-Series Forecasting with Darts
+Speaker Name: Brenden Taylor
+Speaker Profile URL: https://2024.za.pycon.org/users/brenden.taylor22/
+Talk URL: https://2024.za.pycon.org/talks/19-its-about-time-time-series-forecasting-with-darts/
+
+Abstract:
+Along with the rise of “AI”, data-driven decision-making in businesses and organisations is also making a ‘buzz phrase’ of itself. And for most organisations, time series forecasting is a crucial component of making informed decisions. This talk will cover
+Darts
+, a relatively new Python library aimed at making time series analysis and forecasting more accessible while still including a range of models, from classical statistical methods to newer deep learning techniques, all without needing to import many other Python libraries.
+In this talk, we will explore the tools
+Darts
+offers across the whole time series forecasting pipeline: preprocessing and anomaly detection, modelling (including ensembling), and performance evaluation and backtesting. We will start with an overview of the basic classes and components of
+Darts
+, followed by a demonstration of how to implement a basic ensemble model and visualise forecast results.
+Additionally, we will also discuss some key features of Darts that sets it apart from more traditional time series libraries. In particular, the ‘Pythonic’ structuring of its models to use the
+fit()
+and
+predict()
+methods we’ve all come to know and love, similar to the popular Python
+scikit-learn
+library. We will also discuss some other advantages, such as the ease of including static past and future covariates, and encoders, as well as its integration with other popular Python libraries like
+pandas
+. As it’s a relatively new library, we will also discuss some of its current shortcomings.
+Whether you’re a data scientist, analyst or simply interested in time series forecasting in Python (who isn’t?!), this talk will provide you with a solid foundational understanding of
+Darts
+so that you can apply it to your own work and projects.
+Darts
+URL: https://unit8co.github.io/darts/

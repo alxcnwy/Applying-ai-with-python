@@ -1,0 +1,365 @@
+Talk ID,Title,Abstract,Speaker Name,Speaker Profile URL,Talk URL,Speaker ID
+1,Applying AI with Python,"Artificial Intelligence (AI) is transforming industries and our lives by enabling computers to solve increasingly complex tasks, and Python stands at the forefront of this revolution. In this talk, we will explore how Python's rich ecosystem of AI libraries and frameworks can be harnessed to quickly solve real-world problems without needing a PhD. From computer vision to time series analysis to natural language processing and AI agents, this session will demonstrate practical AI applications in real-world use cases that leverage Python's versatility so you can get started using AI right away.
+By the end of the session, you will have a broad overview of AI and of the Python AI landscape together with an understanding of how Python can be used to integrate AI into your projects. The talk will provide practical examples, code snippets, and tips for getting started on building AI-driven solutions. Whether you're a beginner or an experienced developer, this talk will offer valuable insights into applying AI to solve real-world challenges with Python.
+Talk Outline:
+Introduction to AI concepts
+Why Python is the go-to language for AI
+Tabular data
+Computer vision
+Time series
+Text Data
+AI Agents
+Conclusion
+Key Takeaways:
+A solid conceptual foundation for how to apply AI
+Knowledge of the Python libraries and tools useful for AI
+Realizing that you don't need to be a math genius to build with AI",Alex Conway,https://2024.za.pycon.org/users/alxcnwy/,https://2024.za.pycon.org/talks/11-applying-ai-with-python/,1
+2,Harnessing the Power of Community: Lessons from Speedrunning for the Python Ecosystem and Beyond,"Speedrunning, the art of completing video games as quickly as possible, has evolved into a vibrant community that exemplifies the power of community-driven innovation and collaboration. This talk delves into the fascinating world of speedrunners, highlighting how their collective efforts uncover hidden game mechanics and vulnerabilities that often elude traditional testing methods. By openly sharing knowledge and tools, speedrunners have not only broken records but also provided invaluable insights for game developers in areas such as testing, QA, and game balance.
+The talk will explore the transferable skills and approaches of the speedrunning community, demonstrating how these principles can be applied to other industries. l will discuss how the collaborative spirit, open sharing of knowledge, and innovative problem-solving techniques can drive advancements specifically in software development  and cybersecurity, and beyond. By understanding the methodologies and mindset of speedrunners, attendees will gain practical insights into fostering innovation and achieving greater outcomes through community and collaboration.",Nunudzai Mrewa,https://2024.za.pycon.org/users/JustNunuz/,https://2024.za.pycon.org/talks/13-harnessing-the-power-of-community-lessons-from-speedrunning-for-the-python-ecosystem-and-beyond/,2
+3,It’s About Time: Time-Series Forecasting with Darts,"Along with the rise of “AI”, data-driven decision-making in businesses and organisations is also making a ‘buzz phrase’ of itself. And for most organisations, time series forecasting is a crucial component of making informed decisions. This talk will cover
+Darts
+, a relatively new Python library aimed at making time series analysis and forecasting more accessible while still including a range of models, from classical statistical methods to newer deep learning techniques, all without needing to import many other Python libraries.
+In this talk, we will explore the tools
+Darts
+offers across the whole time series forecasting pipeline: preprocessing and anomaly detection, modelling (including ensembling), and performance evaluation and backtesting. We will start with an overview of the basic classes and components of
+Darts
+, followed by a demonstration of how to implement a basic ensemble model and visualise forecast results.
+Additionally, we will also discuss some key features of Darts that sets it apart from more traditional time series libraries. In particular, the ‘Pythonic’ structuring of its models to use the
+fit()
+and
+predict()
+methods we’ve all come to know and love, similar to the popular Python
+scikit-learn
+library. We will also discuss some other advantages, such as the ease of including static past and future covariates, and encoders, as well as its integration with other popular Python libraries like
+pandas
+. As it’s a relatively new library, we will also discuss some of its current shortcomings.
+Whether you’re a data scientist, analyst or simply interested in time series forecasting in Python (who isn’t?!), this talk will provide you with a solid foundational understanding of
+Darts
+so that you can apply it to your own work and projects.
+Darts
+URL: https://unit8co.github.io/darts/",Brenden Taylor,https://2024.za.pycon.org/users/brenden.taylor22/,https://2024.za.pycon.org/talks/19-its-about-time-time-series-forecasting-with-darts/,3
+4,Monitoring and Evaluating LLM Apps with Langfuse,"Overview:
+In the rapidly evolving landscape of AI, the ability to quickly iterate on prototypes and ensure robust performance of apps built around language models is crucial for developers and data scientists. This talk focuses on leveraging free and open-source tools to build, monitor, and evaluate LLM applications, providing a cost-effective approach to rapid development and deployment within the Python ecosystem.
+Topics Covered:
+Setting up local LLMs for fast prototyping (7 min):
+Using Ollama for easy setup and deployment on local machines.
+Running LLMs locally to build and test prototypes without incurring costs.
+Monitoring LLM apps with Langfuse (15 min):
+Introduction to Langfuse, an open-source LLM engineering platform.
+Configuring Langfuse for tracing and evaluation.
+Implementing Langfuse's Python decorator and SDK for detailed monitoring.
+LLM-assisted evaluation (7 min):
+Using Langfuse to set up evaluation datasets and scoring responses of your LLM app.
+Target Audience and Takeaways:
+This talk is aimed at developers and data scientists who are interested in monitoring and optimising their LLM applications. By the end of the session, attendees will have a better understanding of how to set up and monitor their LLM apps using Langfuse, as well as how to leverage local LLMs for rapid prototyping and evaluation. They will walk away with actionable insights and practical knowledge to enhance their workflows, making their AI solutions more efficient and reliable.",Ruan Pretorius,https://2024.za.pycon.org/users/ruankie/,https://2024.za.pycon.org/talks/20-monitoring-and-evaluating-llm-apps-with-langfuse/,4
+5,Leveraging the NLTK library for Translation: A Case Study of Dyula-French Translation,"In the field of natural language processing (NLP), transformer models and the Transformers library have started to become the go to for translation and other NLP tasks. However, resource requirements and data restrictions might not be favourable for transformer models and the use of other python libraries and resources should be considered. This talk will explore the potential of the Natural Language Toolkit (NLTK) python library in building an effective translation model, specifically for languages with limited training data.
+In this talk we will look at an overview of  the NLTK library tools available for NLP tasks such as translation, emphasising their simplicity, efficiency, and accessibility relative to resource-intensive transformer counterparts.
+To highlight how the NLTK library can be used for translation, we will look at a practical case study: translating Dyula to French, a scenario underscored by Dyula's status as an under-resourced language with limited translation data. Here, NLTK's tools will be leveraged to construct a Lexical model for translation, illustrating how NLTK mitigates challenges posed by limited datasets. By focussing on an under-resourced language, this talk will highlight how these limitations can be overcome by utilizing the tools provided within the NLTK library to create a translation model.
+The talk will further highlight the benefits of using the NLTK library for translation by highlighting the advantages of the NLTK library such as ease of use, lower resource requirements and robustness with smaller datasets. To highlight the benefits a comparison will be made between the implementing a translation model using the popular Transformer library, looking at the memory usage, latency and translation performance.
+The simplicity and ease of use of the NLTK library makes it an excellent choice for both beginners and experienced practitioners in NLP, with this talk highlighting the capabilities of this library for NLP tasks.
+Below is a brief break down of the talk structure:
+Overview of NLP and translation models.
+Discussing of  the challenges and limitations of translation tasks that are often seen.
+Overview of the NLTK library, with a deeper dive in how it can be utilised for translation.
+Showcase how to create a translation model through a practical case study: Translating Dyula to French.
+Comparison of the benefits of using the NLTK library compared to other popular translation libraries and tools, highlight when it can be beneficial to rather use the NLTK library.
+Questions",Alta Saunders,https://2024.za.pycon.org/users/zietsmana/,https://2024.za.pycon.org/talks/21-leveraging-the-nltk-library-for-translation-a-case-study-of-dyula-french-translation/,5
+6,Creating Personalised Images with Python's Stable Diffusion,"Title
+Creating Personalised Images with Python's Stable Diffusion
+Abstract
+In the fascinating world of generative AI, leveraging
+Stable Diffusion
+to create stunning, personalised images from simple text prompts is a game-changer. While many tools convert prompts to images, the true magic lies in training machine learning models on custom images or objects, allowing for the generation of unique visuals that incorporate these trained elements. In this talk, we'll make use of the Python
+Diffusers
+library, which is the go-to library for state-of-the-art pretrained diffusion models. You can also explore more about it on
+GitHub
+.
+Topics Covered:
+Introduction to Stable Diffusion
+:
+Understanding the theory and mechanics behind Stable Diffusion.
+Exploring why it's a transformative tool in the generative AI space.
+Training Custom Models
+:
+Practical steps and code snippets to train models with custom images.
+Using images of ourselves or objects to create personalised AI-generated images.
+Refiner Models
+:
+Overview of refiner models and their importance.
+How to integrate refiner models to enhance image quality.
+Existing Stable Diffusion Tools
+:
+Overview of popular tools available for Stable Diffusion.
+Comparisons and use cases for different tools.
+Legal and Licensing Considerations
+:
+Understanding the legal landscape of generative AI.
+Adhering to licensing requirements and best practices when using Stable Diffusion.
+Implementation and Practical Use Cases
+:
+Detailed walkthroughs of setting up and using Stable Diffusion.
+Examples of how personalised images can enhance creative projects.
+Target Audience
+This talk is ideal for both seasoned AI practitioners and those new to the field, offering valuable insights and hands-on techniques to enhance creative projects with custom Stable Diffusion models. Join us as we explore the potential of generative AI and share our experiences with the PyCon community 🚀",,,https://2024.za.pycon.org/talks/22-creating-personalised-images-with-pythons-stable-diffusion/,6
+7,Mental Illness and Vulnerability in Tech,"In his seminal “Noonday Demon: An Atlas of Depression”, Andrew Solomon remarked that there is an entire world of silent “agonizing lives in invisible wheelchairs, dressed in invisible bodycasts"".
+It is becoming increasingly apparent that the tech sector is no exception. In the recent “Mental Health in Tech Survey"" (https://osmihelp.org/research.html) only 30.7% of respondents indicated that they “feel comfortable discussing mental health with coworkers”. This seems unsurprising, given that when mental health was discussed only 33.6% of respondents “experienced or observed a supportive or well-handled response”.
+As someone with a history of mental illness myself, I spent the last year conducting interviews with individuals struggling with mental health in the tech sector. In addition, I also interviewed legal and therapeutic practitioners to create a list of avenues of support you are legally entitled to as a South African citizen. In this talk, I hope to share some insights uncovered during this personal investigation.",Schalk Venter,https://2024.za.pycon.org/users/schalkventer/,https://2024.za.pycon.org/talks/27-mental-illness-and-vulnerability-in-tech/,6
+8,Bridging Language Barriers: Making Programming Education Accessible to All,"In a diverse and multilingual country like South Africa, the transformative power of programming should be accessible to everyone, regardless of their native language. In a post-COVID world, where digital uptake and transformation have accelerated, the Centre for High-Performance Computing (CHPC) is spearheading an initiative to make programming education more inclusive. By translating our summer school training materials covering Python, High-Performance Computing (HPC) concepts, and Research Software Engineering applications into various native languages, we aim to break down language barriers and enable non-native English speakers to engage with emerging technologies.
+The hybrid format of the CHPC summer school training has enabled access for over 700 postgraduate students and researchers from South African universities and scientific institutions each year, with this number continuing to grow. Combining both in-person and online sessions allows students from all regions, including those in remote or underserved areas, to participate fully. By offering training materials in multiple languages, we package the content in a way that resonates with all South Africans, enabling them to own programming and engage with it in their mother tongue. This inclusive approach aims to make programming and technology education available and enjoyable for everyone.
+This talk will delve into the technical and cultural challenges of translating programming languages, explore the methodologies we have adopted, and highlight the impact of this project on local communities. By broadening access to Python and related tools, we aim to empower more people to learn to code and develop innovative solutions that reflect their cultural contexts. Whether you're a developer, educator, or advocate for diversity in tech, this session will inspire you to consider how language can transform and broaden the impact of programming.",Mthetho Sovara,https://2024.za.pycon.org/users/msovara/,https://2024.za.pycon.org/talks/32-bridging-language-barriers-making-programming-education-accessible-to-all/,7
+9,Level up your developer experience with Kubernetes,"In today's fast-paced development landscape, the efficiency and consistency of your development environment can significantly impact your productivity and output quality. This presentation explores how Kubernetes can revolutionize the developer experience by providing a standardized, containerized environment that ensures all developers work with the same stack, locally or remotely. With Kubernetes, deployment becomes declarative, seamless, and easily replicable across different environments, from development to production.
+We'll delve into practical strategies for adopting Kubernetes in your organization, including containerizing applications, planning with both developers and DevOps teams, and conducting proof-of-concept sprints. Additionally, we'll compare Docker Compose with Kubernetes, highlighting the benefits of using Kubernetes for managing complex, multi-service applications. Leveraging tools like Kind, Tilt, and Nix can streamline your development workflow, enabling rapid feedback loops and more efficient debugging.
+Join me to learn how Kubernetes can enhance your developer experience, reduce vendor lock-in, and lower infrastructure costs while providing a robust, scalable environment that grows with your application needs.
+What is Python-specific about this talk?
+It uses the Python tool Scaf (https://github.com/sixfeetup/scaf) to show how to bootstrap a new development environment with a local Kubernetes cluster in minutes. We'll use Scaf to deploy a Django app with a Postgres backend and a Redis cache to a locally running Kubernetes cluster.",Roché Compaan,https://2024.za.pycon.org/users/rochecompaan/,https://2024.za.pycon.org/talks/33-level-up-your-developer-experience-with-kubernetes/,8
+10,A Novel Way of Creating Multi-Tenant Apps using Django... No Third Party Packages Apply!,"Imagine building a software-as-a-service platform where each client has their own secure space, yet managing it all feels like juggling too many balls at once. How do you ensure that each tenant’s data remains isolated, yet accessible, without losing your sanity—or compromising on performance?
+Join Shaun De Ponte as he addresses this challenge head-on with his innovative approach to constructing multi-tenant applications using Django's Admin, enhanced with Jazzmin for sleek styling. In this session, Shaun will showcase how to effortlessly manage tenant separation through sub-domains, ensuring crystal-clear data isolation and streamlined CRUD operations, all within a database-agnostic framework.
+Whether you're just dipping your toes into multi-tenancy or seeking to refine your existing approach, this talk will equip you with the tools and insights to confidently build scalable, secure multi-tenant applications. Plus, you’ll leave with a ready-to-use cookie cutter project, giving you a head start on your next big idea.",Shaun De Ponte,https://2024.za.pycon.org/users/nawtybean3d/,https://2024.za.pycon.org/talks/35-a-novel-way-of-creating-multi-tenant-apps-using-django-no-third-party-packages-apply/,9
+11,Building a Decisioning Engine for Data Scientists: A Practical Guide,"Machine learning offers a modern replacement for
+human-curated predictive decisioning
+. However, in practice,
+predictive rules
+manually created from
+expert domain knowledge
+remain extremely relevant in many industries, most notably
+finance
+. These rules are straightforward, highly explainable, and enable experts to incorporate valuable domain knowledge. However, the
+open-source ecosystem
+until recently, lacked comprehensive tooling for creating
+decision flows
+that can be
+operationalized
+following modern-day
+machine learning
+best practices.
+In this talk, we will introduce a new
+open-source decisioning framework
+built on
+Hamilton
+, a versatile framework designed to streamline the creation and management of
+dataflows
+using standard Python functions. Hamilton simplifies the development process by converting functions into nodes in a
+Directed Acyclic Graph (DAG)
+, allowing for efficient execution and
+visualization
+of decision flows. Our new open-sourced framework enables scientists to create rules around
+Statistical
+,
+Machine Learning
+, and
+Large-language models
+. We will showcase the framework's ability to address
+fraud detection
+,
+credit granting
+, and integration with
+LLMs
+. This session is tailored for
+decision creators
+(e.g.,
+data scientists
+,
+decision scientists
+, and
+data analysts
+), and
+operations engineers
+.
+The talk will delve into the key components of our Python-based decisioning solution applicable to finance, including
+decision trees
+,
+credit risk scorecards
+, and
+decision tables
+. We will emphasize using
+Directed Acyclic Graphs (DAGs)
+to achieve
+interoperability
+,
+traceability
+, and
+visual insights
+into decision-making processes. We will then show how these decisioning processes can be
+productionised
+for
+real-time
+and
+batch
+use cases. The talk will provide listeners with practical insights for developing decisioning flows using best practices.",Sholto Armstrong,https://2024.za.pycon.org/users/sjnarmstrong/,https://2024.za.pycon.org/talks/37-building-a-decisioning-engine-for-data-scientists-a-practical-guide/,10
+12,Implementing an HPy Backend for Cython,"HPy (https://hpyproject.org/) is a new API for extending Python with C, and is intended as an alternative to the existing C API. It is designed to have zero overhead on CPython while being much faster on alternate implementations such as GraalPy (https://www.graalvm.org/python/) and PyPy (https://pypy.org/) (don’t worry, all of this will be explained in the talk).
+Many Python tools still use  the C API, which harms their performance on GraalPy and PyPy. One such tool is Cython. Cython is a program that compiles Python code to C code for improved performance. The generated C files use the C API. We created an HPy backend for Cython, which replaces instances of the C API with the equivalent HPy code. This involved changing C API functions and structures to the equivalent ones in HPy, as well as reorganising the Cython source code to let it generate HPy-compliant code. We can create modules using HPy to handle data structures, function calls, and class creation with Cython.
+After benchmarking our code on the C API and HPy on both CPython and GraalPy, we found that our HPy version of Cython can perform on GraalPy at speeds equivalent to the C API on CPython for some benchmarks, while on the other benchmarks our backend performed better than the C API on GraalPy, while still underperforming CPython. We also identified parts of HPy that need to be optimised further to ensure performance gains on all benchmarks.",Du Toit Spies,https://2024.za.pycon.org/users/DuToitSpies/,https://2024.za.pycon.org/talks/38-implementing-an-hpy-backend-for-cython/,11
+13,Streamlining HPC Operations: Integrating Django Helpdesk in Resource-Constrained Environments,"Django helpdesk is a general purpose ticketing system that can be used in a variety of applications. This talk examines the deployment of Django Helpdesk as a crucial component of the software stack used for large-scale HPC system deployments in resource-constrained environments. The HPC Ecosystems Project, spearheaded by the Centre for High Performance Computing (CHPC) is dedicated to deploying HPC cyber-infrastructure to SKA partner sites across Africa and providing comprehensive HPC System Administrator training throughout the continent.
+Over the past decade, this project has successfully deployed 35 HPC systems across Africa. The latest iteration of the software stack has focused on using a blackbox approach to deployment utilizing OpenHPC. To complement this, a similar approach is being adopted for the user support interface, incorporating ticketing and helpdesk functionalities. Django Helpdesk was chosen for this role, representing a pivotal step in refining our deployment strategy to enhance helpdesk operations and user support.
+Django Helpdesk is a powerful web-based ticketing system that offers several advantages for HPC environments. This talk will explore the key benefits of Django Helpdesk, including its flexibility, user-friendly interface, and robust capabilities. By comparing it with other ticketing tools commonly used in HPC settings, we will highlight its strengths and limitations. The discussion will provide insights into the deployment process and demonstrate how Django Helpdesk can be effectively utilized to improve support workflows and user interactions. Attendees will leave with practical knowledge on deploying Django Helpdesk in general and a deeper understanding of its critical role in advancing user support strategies. The application of Django Helpdesk is by no means specific to HPC and therefore attendees might find this ticketing system for their own needs.",Binjamin Barsch,https://2024.za.pycon.org/users/bbarsch/,https://2024.za.pycon.org/talks/39-streamlining-hpc-operations-integrating-django-helpdesk-in-resource-constrained-environments/,12
+14,"You don't need a data service, you just need an object store and some JSON files","What are you talking about?
+In this talk, I will describe an approach to building highly scalable services that is both extremely reliable and dirt cheap to run. The essence of our approach is eschewing popular service frameworks such as Flask, and instead sweating the HTTP API of object stores, such as those made available by large cloud providers, or on-premise options such as Minio or Ceph, along with supporting infrastructure such as data pipelines and content delivery networks.
+To illustrate this concept, I'll talk through the architecture of the City's open source
+Service Alert API
+, and how we provide a near real time data API which is well specified using an OpenAPI spec, but is really just a few JSON files in AWS's S3.
+Who is this for?
+This should be interesting to anyone that is nervous about having to support a large user base, but has important information that they need to make available. For small teams or those lacking DevOps capacity, we believe this is an extremely viable approach. It's also potentially a cautionary tale about what happens when the hubris of Man is left unchecked.",Gordon Inggs,https://2024.za.pycon.org/users/gordon.inggs@capetown.gov.za/,https://2024.za.pycon.org/talks/40-you-dont-need-a-data-service-you-just-need-an-object-store-and-some-json-files/,13
+15,Great Expectations About Data Quality,"A story about the City of Cape Town Data Science Branch’s quest to develop a framework for measuring and monitoring data quality; what worked, what didn’t, and what we learnt along the way.
+Testing out popular data quality packages from the Python ecosystem (Great Expectations, Soda) and a roll-your-own approach, we contended with both generic and domain-specific measures of data quality.
+I'll begin the talk with a brief background to the Data Science Branch and provide some context for why we embarked on the data quality mission. I'll then present an introduction to the study of data quality, before moving on to our implementation in Python using the packages described above, discussing the pros and cons of each approach. I'll wrap up the talk by discussing our future plans and summarizing the major learnings we gained along the way.
+This talk is intended for anyone who has faced questions about data quality in their own work, and emerged more or less unscathed. It is hoped that the presentation provides insight to both the audience and speaker by generating discussion about other data practitioners’ experiences in this realm.",Ariella Rink,https://2024.za.pycon.org/users/AriellaRink/,https://2024.za.pycon.org/talks/41-great-expectations-about-data-quality/,14
+16,Made you look: Using Siamese Neural Networks for Building Change Detection at the City of Cape Town,"What is this talk about?
+One of the most important processes undertaken by a Municipal Government in South Africa is keeping cadastral information (property) up to date. This is an important dataset not only for planning the work of the municipality, such as the ongoing provision of water and electricity, but also has important implications for property rates, the taxes that local government levies to provide basic services.
+For several years, the City of Cape Town has been using a digital surface modelling (DSM) approach to detect significant changes in property height, and then through manual review, identifying meaningful changes to properties. In collaboration with the Data Science branch, the City's Valuations Department has taken things to the next level by employing deep learning to automatically identify property changes of interest.
+In this talk, we will describe this work, both from a technical perspective, as well as how we have applied the model developed to realise value in a complex operating environment.
+Who is this talk for?
+Anyone interested in remote sensing, deep learning and the practical applications thereof. The talk will also be of interest to anyone curious in the application of (relatively) advanced data science in local government.",Jolanda Becker,https://2024.za.pycon.org/users/jolanda/,https://2024.za.pycon.org/talks/42-made-you-look-using-siamese-neural-networks-for-building-change-detection-at-the-city-of-cape-town/,15
+17,Kafka in practice: Lessons learned at Takealot,"Overview:
+Apache Kafka is a great event streaming and real-time data platform, and is the backbone of event streaming at Takealot. However, as with any powerful tool, you have to use it thoughtfully.
+Over the years working with Kafka, we've learned a lot of lessons. Johan will take you through the good, the bad and the ugly: Where Kafka shines, where it can be misused successfully, and where it's a bad fit.
+Topics:
+An overview of what Kafka does well.
+Tradeoffs that you need to be aware of when using Kafka.
+Where Kafka might not be the right answer.
+Design choices that will help you get the most out of Kafka.
+Python tools and libraries for Kafka.
+Guidance on evolving your Kafka message schemas.
+Specific edge cases where Kafka bit us.
+Target Audience and Takeaways:
+The talk is aimed at developers working with microservices and interesting in using event streaming with Python. They will get actionable advice on evaluating and setting up Kafka, as well as some guidance to recognise the pitfalls.",Johan Beyers,https://2024.za.pycon.org/users/johan_beyers/,https://2024.za.pycon.org/talks/43-kafka-in-practice-lessons-learned-at-takealot/,16
+18,Power to the people who teach the people to code,"Teaching people to code is...tricky.
+Software development and teaching are two distinct skill sets, yet people with technical skills are often put into a position where they are meant to teach others, this might be through workplace mentorship, community involvement, or through being hired to teach (for example, in a bootcamp). They are often expected to succeed with very little or no teacher training at all. A lot of common practice is very ineffective.
+Many think that when it comes to teaching, you either have it or you don't. I'm happy to inform you that those people are mistaken.
+Teaching and learning is something that has been well studied. There are techniques, patterns, and anti-patterns. There are skills that can be learned and practiced.
+I've been working in alternative education for a number of years, and the people who graduate from the courses I've put together tend to do really well for themselves.
+In this talk, I'd like to share a few of the things I've learned over the years. We'll cover studies, mindsets, mechanisms, patterns, and anti-patterns.  The Python community is full of people with teacher's hearts. My goal is to amplify their efforts.",Sheena O'Connell,https://2024.za.pycon.org/users/sheena/,https://2024.za.pycon.org/talks/46-power-to-the-people-who-teach-the-people-to-code/,17
+19,Adventures in Garbage Collection,"Most of the time, garbage collection is an invisible process one can forget about - but what happens when it goes wrong? In this presentation I'll describe how CPython manages garbage, and some challenges that has caused me in my day-to-day work. I'll talk about ways to monitor and improve the GC performance to reduce latency, how to debug surprising issues, and how to make your unit tests use less memory.
+No prior knowledge of/experience with garbage collection is expected.",Bruce Merry,https://2024.za.pycon.org/users/bmerry/,https://2024.za.pycon.org/talks/49-adventures-in-garbage-collection/,18
+20,& robotics for all!,"Coding & robotics is the new subject in the DBE curriculum...
+and the 4IR is robot powered...
+So the robots are coming!
+But what, how, where?
+:David shares how CoderLevelUp.org are helping create a creative learning ecosystem for physical computing & robotics, from low floors to high ceilings with very wide walls.
+Low floor: simulators & education bots (block based & Python) for pico and 2 wheeled robots from Microsoft Research, 
+ - with ramps: code clubs, training & community
+High ceilings: open source robots hosted at science institutes, being made in collab with local makers for research and development
+ - with long ladders: sims, tutorials, challenges and hosted bots
+Wide walls: robots underwater, planetary Roving, in space, and even flying airships
+Let's see how we can liberate robots for all!",:David Campey,https://2024.za.pycon.org/users/campey/,https://2024.za.pycon.org/talks/51-robotics-for-all/,19
+21,Maintaining a PLC communication library called python-snap7 without owning a PLC,"Python-snap7 is a Python library that enables seamless communication between a computer and Siemens PLCs (Programmable Logic Controllers). With over 20,000 downloads per month, 643 GitHub stars, and 246 forks, the library is used globally in critical industries—ranging from water purification plants to some unknown departments at NASA.
+For the past 11 years, I've had the honour of maintaining this library without ever owning or working directly with a PLC myself. In this talk, I'll share the journey that led me to create and maintain Python-snap7, along with stories, challenges, and insights from this adventure.
+The intended audience for this talk is people who want to know more about how to maintain an open-source project and lower the contribution threshold as much as possible. You don't need to know what a PLC is.
+https://github.com/gijzelaerr/python-snap7",Gijs Molenaar,https://2024.za.pycon.org/users/gijsm/,https://2024.za.pycon.org/talks/52-maintaining-a-plc-communication-library-called-python-snap7-without-owning-a-plc/,20
+22,"Duck, Duck, Python: OLAP Data with DuckDB","🦆 DuckDB is an in-process OLAP SQL database that can use Python to supercharge your data analysis. It integrates seamlessly with Pandas, letting you process data locally and quickly with SQL, making it an excellent alternative for performance-heavy tasks.
+🦆 This session will show you how DuckDB makes working with large datasets and complex queries a breeze. We’ll also compare it to Pandas and Polars, highlighting where DuckDB shines regarding speed and scalability. Plus, we’ll dive into practical examples, showing how easy it is to use DuckDB for data ingestion and querying in Python.
+🦆 If you’re a data scientist or analyst looking to speed up your workflows and make your data analysis more efficient, DuckDB might be the solution you’re looking for.",Luis de Sousa,https://2024.za.pycon.org/users/luisdza/,https://2024.za.pycon.org/talks/53-duck-duck-python-olap-data-with-duckdb/,21
+23,Differentiation Engines: The Elves behind the AI Christmas,"What do all recent advancements in LLMs, Computer Vision, and State-of-the-Art deep learning models have in common? They rely on frameworks like TensorFlow, PyTorch, and JAX. And what do all these frameworks have in common? They are all underpinned by numerical differentiation engines.
+This talk will provide a good overview on:
+The different mathematical differentiation techniques and libraries within the Python ecosystem.
+An in-depth look at what powers modern machine learning frameworks.
+Automatic Differentiation engines and their rising dominance in recent years.
+I will focus on the array of techniques available, such as numerical differentiation, symbolic differentiation, and why automatic differentiation is increasingly preferred for machine learning applications. This discussion, tailored for the Python ecosystem, will adopt a code-first approach without delving deeply into the underlying mathematics. Tentative structure of the talk:
+Introduction
+[2-3 minutes]
+Overview of the agenda.
+What attendees will learn from this talk and what will not be covered (specifically, intricate mathematical theories).
+Quick mathematical refresher
+[4-5 minutes]
+Basic calculus including differentiation of expressions involving multiplication and addition operations.
+Understanding gradients and their role in the machine learning ecosystem.
+Algorithmic Differentiation
+[7-10 minutes]
+Various methods to perform mathematical differentiation in code: Numerical, Symbolic, and Automatic.
+Implementation techniques: Operator overloading vs. Source Code transformation.
+Automatic Differentiation
+[12-15 minutes]
+Mechanisms of Automatic Differentiation (AD).
+Exploring Forward and Reverse mode AD. [Since it's a big topic, this will only be a short overview]
+What the famous kids are using - PyTorch, TensorFlow, Google JAX
+Some unsung heroes - Chainer, Google Tangent, Autograd
+QnA
+[10 minutes]
+Addressing any questions
+Expected Takeaways
+: Attendees will gain an understanding of the mathematical operations that underpin ML frameworks and how they are implemented behind the scenes. Some knowledge about the unsung heroes like Chainer, Google Tangent and HIPS autograd that shaped the modern DL frameworks.",Rajdeep Singh,https://2024.za.pycon.org/users/singhsegv/,https://2024.za.pycon.org/talks/23-differentiation-engines-the-elves-behind-the-ai-christmas/,22
+24,Accelerate your pandas workload using FireDucks at zero manual effort,"In general, a Data Scientist spends significant efforts in transforming the raw data into a more digestible format before training an AI model or creating visualizations. Traditional tools such as pandas have long been the linchpin in this process, offering powerful capabilities but not without limitations. With numerous possible ways to write the same thing in pandas, often a user ends up selecting the uneconomical, inefficient ones, leading to large computational costs with the growth in data size. We introduce a couple of frequently occurring intricate performance issues in pandas, along with a compiler-accelerated high-performance library named FireDucks to auto-detect and optimize those issues without any manual effort. We will also demonstrate how FireDucks can outperform the existing high-performance pandas alternatives.
+The growth of data sizes and the increase in performance cost create the demand for high-performance DataFrame libraries. However, the existing pandas alternatives often compel a 
+user to learn completely new APIs (incurring migration cost), whereas some of the others 
+demand a more efficient computational system (incurring hardware cost). To address the 
+same, we at NEC R&D Lab Japan, have developed
+FireDucks
+, a solution that’s been crafted for the contemporary data professional who loves flexible user APIs in pandas and wants to enhance the performance of their application without any extra hardware cost when dealing with voluminous and complex data on a regular basis. It is released on pypi.org under the 3-Clause BSD License and can be simply installed using pip.
+Here is the outline of the talk:
+Current challenges of large-scale data analysis using pandas and other libraries. (5 mins)
+Introduction to FireDucks (developed at NEC R&D Lab) and its offerings. (10 mins)
+Demo on automatic acceleration of pandas workload using FireDucks. (5 mins)
+Tricks and Tips on writing better code related to large-scale data analysis. (5 mins)
+Performance comparison of FireDucks and other data analysis Python libraries. (5 mins)
+The key takeaways from the session would be as follows:
+How the choice and execution order of API calls in writing an application (not limited to pandas) impacts its performance.
+How compiler technologies can be useful to auto-detect and optimize existing performance issues in a pandas-like application, enabling a user to write efficient code.
+How FireDucks can help to focus more on in-depth data analysis instead of spending hours optimizing an existing code at the production level.
+Target Audience:
+Whoever uses pandas or related libraries for large-data analysis shall find this session useful.",Sourav Saha,https://2024.za.pycon.org/users/qsourav/,https://2024.za.pycon.org/talks/25-accelerate-your-pandas-workload-using-fireducks-at-zero-manual-effort/,23
+25,Sensor data processing on microcontrollers with MicroPython,"Being able to measure physical phenomena is critical to many areas of science and engineering;
+from measuring pollution in public spaces to monitoring of critical infrastructure. Over the last decades, the capabilities and costs of sensor system has become much better, driven by improvements in microprocessors, MEMS sensor technology, and low-energy wireless communication. Thanks to this Wireless Sensor Networks and ""Internet of Things"" (IoT) sensor systems are becoming common.
+Typical sensor nodes use microcontroller-based hardware, and the firmware developed primarily using C (or C++). However, it is now becoming feasible to write microcontroller firmware using Python. This is thanks to the MicroPython project, combined with affordable and powerful hardware from the last couple of years. Using the familiar and high-level Python programming language makes the process of creating sensor nodes more accessible to an engineer or scientist.
+In this talk we will discuss developing microcontroller-based sensors using MicroPython. This includes a brief introduction to MicroPython, how to do efficient data processing, and share our experience applying this to process accelerometer and microphone data, using both Digital Signal Processing and Machine Learning techniques.
+We will apply some functionality, techniques, and lessons learned from the emlearn-micropython project - a Machine Learning and Digital Signal Processing library for MicroPython. Code available at: https://github.com/emlearn/emlearn-micropython
+Intended audience: Any developer or data scientist curious about sensor data processing, IoT,
+and how Python scales down to the smallest of devices.",Jon Nordby,https://2024.za.pycon.org/users/jonnor/,https://2024.za.pycon.org/talks/31-sensor-data-processing-on-microcontrollers-with-micropython/,24
+26,Building a Thriving Tech Community,"Description of the Talk
+In this talk, I will explore the pivotal role that tech communities play in bridging the gap between training and employment. I'll share insights on how these communities provide essential resources like networking, knowledge sharing, exposure to job opportunities, and mentorship. The audience will gain a deeper understanding of how these elements can transform careers and empower young people to thrive in the tech industry. By the end of the session, they will be equipped with practical strategies to engage with or build tech communities that foster growth, collaboration, and long-term success in the tech field.
+This talk is not just about identifying the challenges; it's about offering solutions. I'll cover the real-life impact of tech communities, sharing stories of young professionals who have successfully transitioned from learning to employment through community involvement. The audience will leave with actionable insights and a renewed sense of purpose, ready to contribute to or start tech communities that can make a meaningful difference in the lives of young people across Africa.
+Audience
+My audience consists of students, techies, engineers, and developers who are either starting their journey in the tech industry or are looking to advance their careers. These are individuals who are eager to learn, grow, and make meaningful contributions to the tech landscape.
+What will they get out of it?
+By attending this talk, the audience will gain a clear understanding of how tech communities can be a powerful tool for career advancement. They will learn how to leverage these communities to enhance their skills, expand their professional networks, and stay ahead in the rapidly evolving tech industry.
+They will walk away with practical strategies for finding and participating in tech communities that align with their goals. They will also discover how these communities can provide mentorship, job opportunities, and a platform for continuous learning. Ultimately, they will be empowered to take proactive steps in their careers, transforming their potential into real, impactful success in the tech world.
+What will I cover?
+The Importance of Tech Communities:
+I'll begin by explaining the critical role that tech communities play in bridging the gap between education and employment. This includes how these communities foster networking, knowledge sharing, and mentorship, which are vital for career growth.
+Overcoming Career Challenges:
+I will address common challenges faced by students, techies, engineers, and developers, such as skill gaps, career stagnation, and limited access to job opportunities. I'll share strategies on how being part of a tech community can help overcome these hurdles.
+Practical Steps for Engagement:
+The talk will also provide practical advice on how to find, join, and actively participate in tech communities. I’ll share real-life success stories of individuals who have leveraged these communities to advance their careers and make significant contributions to the tech field.
+Building Your Own Community:
+For those interested in taking a leadership role, I’ll cover the basics of starting and growing a tech community, including tips on attracting members, organizing events, and fostering a collaborative environment.",Adeline Makokha,https://2024.za.pycon.org/users/amakokha/,https://2024.za.pycon.org/talks/34-building-a-thriving-tech-community/,25
+27,Building a Code Search Engine: Using NLP to Find Similar Methods Across Libraries,"A developer may decide to implement a library despite the existence of similar libraries, taking into account factors such as computational performance, language or platform dependency, and accuracy. Therefore, there are several libraries with overlapped functionalities.
+In this talk audience will learn how to build a code search engine using Natural Language Processing (NLP) techniques. We'll explore how NLP can be applied using Python's Natural Language Toolkit (NLTK) to function documentation and signatures to uncover similarities between methods across different libraries, enabling developers to find the most suitable code for their needs.
+The talk assumes some Python knowledge; NLP knowledge is not required as a brief overview will be given during the talk.",Divya Rani,https://2024.za.pycon.org/users/Divya063/,https://2024.za.pycon.org/talks/50-building-a-code-search-engine-using-nlp-to-find-similar-methods-across-libraries/,26
+28,Beyond the Pause: Exploring the Inner Workings of Python’s `sleep()`,"This talk is designed for Python developers who want to deepen their understanding of Python’s sleep() function, particularly its inner workings and how it interacts with operating systems and hardware. Whether you're a beginner curious about how Python handles time or an experienced developer looking to optimize code that relies on timing, this talk will take you through the technical journey of what happens behind the scenes when you use sleep().
+We’ll explore key concepts like blocking and non-blocking sleep, the use of the monotonic clock to ensure accurate sleep durations, and how sleep() interacts with OS-level system calls like nanosleep. Additionally, we'll discuss common challenges like overshooting due to system load, interruptions by system signals, and how sleep timing remains reliable even under adverse conditions.
+Attendees will leave with a deeper appreciation of Python's time management mechanics, enabling them to write more efficient and reliable code that interacts with timing functions. They'll also gain insight into handling sleep-related quirks in complex applications, enhancing their problem-solving skills in real-world scenarios.",Rupali Kavale,https://2024.za.pycon.org/users/rkavale@andrew.cmu.edu/,https://2024.za.pycon.org/talks/55-beyond-the-pause-exploring-the-inner-workings-of-pythons-sleep/,27
+29,Exploring the Adoption & Role of Open Source Software in Schools,"The adoption of
+Open Source Software
+(OSS) in education has the potential to revolutionise learning environments, especially in resource-constrained regions. This talk delves into how schools can leverage OSS to overcome educational barriers, reduce costs, and foster a culture of innovation and collaboration.
+I will begin by examining the current state of OSS adoption in schools, highlighting successful case studies where OSS has significantly impacted the quality of education. Through these examples, I will explore how OSS provides accessible, customisable, and cost-effective solutions that can be tailored to meet diverse educational needs.
+Next, I will address the practical challenges schools face in implementing OSS, including issues related to infrastructure, training, and resistance to change. By sharing insights and strategies from educators and tech enthusiasts who have successfully navigated these challenges, I will aim to provide actionable steps for wider OSS adoption.
+Finally, I will discuss the broader implications of integrating OSS into the educational system. This includes promoting digital literacy, encouraging problem-solving and critical thinking skills, and preparing students for a future in which open-source technologies play a crucial role.",Robson Kanhalelo,https://2024.za.pycon.org/users/Kanhalelor/,https://2024.za.pycon.org/talks/15-exploring-the-adoption-role-of-open-source-software-in-schools/,28
+30,Using Coding Skills to Make Passive Income,"In 2017, I stepped down from my job as CTO of a 150-person software company to see if I could make money selling my own software on the Internet. Seven years later, I am now a full-time “solopreneur”—running a portfolio of software products (written mostly in Python) as a full-time job. I now set my own hours, take vacation whenever I want, and, amazingly, earn more than I ever did as CTO.
+In this talk, I’ll share how I did it and what I learned in the process. I’ll share the skills Python programmers should pick up in order to start selling software on the web, including both technical  and non-technical ones. I’ll discuss how to get started, evaluating your ideas, building your product, and getting your first users and customers. The talk will draw from years of work building and selling software myself, as well as the experience I’ve gained from helping hundreds of others launch their own businesses.
+If you’ve ever wanted to turn your coding skills into revenue-generating side-projects, I hope this talk both inspires and helps you to get started.",Cory Zue,https://2024.za.pycon.org/users/czue/,https://2024.za.pycon.org/talks/30-using-coding-skills-to-make-passive-income/,29
+31,"Modern web frontend development with Python, HTMX and friends","Once upon a time, if you wanted to build a modern web experience using a Python based web framework, an obvious choice was to expose a bunch of APIs and build your frontend in something else entirely (eg React).
+Times have changed.
+Tools like HTMX and AlpineJS have made HTML great again.
+These tools make full stack web dev fast and fun, they simplify development, shrink code bases, and give backend devs the ability to do modern frontend work. In my personal experience I've seen the adoption of these tools lead to massive productivity gains for junior and senior devs alike.
+This workshop will walk you through the process of building and testing a CRUD application with a rich and modern frontend.
+As we build this out, you will implement a few patterns for handling some of web development’s most common frontend requirements. For example, hydration.
+We'll be making use of:
+Django
+HTMX
+a sprinkle of AlpineJS
+a touch of of Tailwindcss
+Playwright for testing
+Even though this is a Django-based tutorial, we wont be covering any super advanced Django functionality. Our focus will be on the frontend, and testing the frontend.
+If you would like to see what these tools are about, here are a few talks:
+DjangoCon 2022 | From React to htmx on a real-world SaaS product: we did it, and it's awesome!
+DjangoCon US Keynote: Testing Modern Web Apps Like a Champion with Andrew Knight
+This is a full day tutorial, and continues in the afternoon session",Sheena O'Connell,https://2024.za.pycon.org/users/sheena/,https://2024.za.pycon.org/talks/26-modern-web-frontend-development-with-python-htmx-and-friends/,30
+32,"Modern web frontend development with Python, HTMX and friends (part 2)","This is the afternoon session for the full day ""Modern web frontend development with Python, HTMX and friends"" tutorial.
+See
+part 1
+for the full desciption.",Sheena O'Connell,https://2024.za.pycon.org/users/sheena/,https://2024.za.pycon.org/talks/48-modern-web-frontend-development-with-python-htmx-and-friends-part-2/,31
+33,PyCon Africa & PyConZA 2025 discussion,"PyCon Africa & PyConZA 2025
+PyCon Africa will be held in South Africa in 2025.
+This is a discussion about options for how to manage both PyCon Africa & PyConZA in 2025, potentially as a joint conference and the trade-offs that will require.",Neil Muller,https://2024.za.pycon.org/users/drnlmza/,https://2024.za.pycon.org/talks/58-pycon-africa-pyconza-2025-discussion/,32
+34,Community & Contributions,"A talk by our platinum sponsor, Thinkst Canary",Marco Slaviero,https://2024.za.pycon.org/users/ThinkstCanary/,https://2024.za.pycon.org/talks/56-community-contributions/,33
+35,Professional Software Isn’t,"A talk by our platinum sponsor, Thinks Canary",Marco Slaviero,https://2024.za.pycon.org/users/ThinkstCanary/,https://2024.za.pycon.org/talks/57-professional-software-isnt/,34
+36,Software Development at the South African Radio Astronomy Observatory,"SARAO
+A talk by our gold sponsor",SARAO,https://2024.za.pycon.org/users/SARAO/,https://2024.za.pycon.org/talks/59-software-development-at-the-south-african-radio-astronomy-observatory/,35

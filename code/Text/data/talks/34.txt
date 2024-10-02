@@ -1,0 +1,10 @@
+Talk ID: 34
+Speaker ID: 33
+Talk ID: 34
+Title: Community & Contributions
+Speaker Name: Marco Slaviero
+Speaker Profile URL: https://2024.za.pycon.org/users/ThinkstCanary/
+Talk URL: https://2024.za.pycon.org/talks/56-community-contributions/
+
+Abstract:
+A talk by our platinum sponsor, Thinkst Canary

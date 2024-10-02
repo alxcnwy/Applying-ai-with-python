@@ -1,0 +1,7 @@
+Speaker ID: 3
+Talk ID: 3
+Photo URL: No photo available
+Bio Part 1: I am a data scientist at Praelexis, in Stellenbosch. I have mostly worked in financial services, specifically in time series forecasting in Python.
+Name: Brenden Taylor
+Profile URL: https://2024.za.pycon.org/users/brenden.taylor22/
+Speaker ID: 3

@@ -1,0 +1,12 @@
+Speaker ID: 1
+Talk ID: 1
+Photo URL: No photo available
+Twitter: https://twitter.com/alxcnwy
+GitHub: https://github.com/alxcnwy
+Bio Part 1: Twitter Profile link:https://twitter.com/alxcnwy
+Bio Part 2: Other Social:https://www.linkedin.com/in/alxcnwy/
+Bio Part 3: github profile:https://github.com/alxcnwy
+Bio Part 4: I am a data scientist / hacker with 25 years of coding experience. I've built several startups including my AI development agency NumberBoost and most recently AiSupervision that did Y Combinator and raised several million dollars from VCs. I recently exited that startup and am now working on applied AI via www.numberboost.com
+Name: Alex Conway
+Profile URL: https://2024.za.pycon.org/users/alxcnwy/
+Speaker ID: 1

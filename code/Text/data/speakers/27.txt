@@ -1,0 +1,10 @@
+Speaker ID: 27
+Talk ID: 28
+Photo URL: No photo available
+GitHub: https://github.com/coderquill
+Bio Part 1: Other Social:https://www.linkedin.com/in/rupali-kavale/
+Bio Part 2: github profile:https://github.com/coderquill
+Bio Part 3: Hi, I’m Rupali Kavale, a Python enthusiast and a master's student in Information Systems Management at Carnegie Mellon University. I’ve had the privilege of working at Twilio and Navi.AI, where I tackled projects like building flight tools and optimizing cloud integrations. I love digging into the deeper workings of Programming languages and believe in the power of clean, efficient code. Being a software engineer with a passion for entrepreneurship, I’m always trying and learning new things. When I’m not coding, you’ll find me dancing, painting, or even writing poetry when emotions overflow. I’m an avid lover of sci-fi (extra points for dragons!) and I adore writing and speaking!
+Name: Rupali Kavale
+Profile URL: https://2024.za.pycon.org/users/rkavale@andrew.cmu.edu/
+Speaker ID: 27

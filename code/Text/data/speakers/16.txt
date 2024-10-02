@@ -1,0 +1,10 @@
+Speaker ID: 16
+Talk ID: 17
+Photo URL: No photo available
+GitHub: https://github.com/jbeyers
+Bio Part 1: Twitter Profile link:https://x.com/johanbeyers
+Bio Part 2: github profile:https://github.com/jbeyers
+Bio Part 3: Johan has been developing software for a long time, and also builds physical things. He is a senior engineer at Takealot.
+Name: Johan Beyers
+Profile URL: https://2024.za.pycon.org/users/johan_beyers/
+Speaker ID: 16

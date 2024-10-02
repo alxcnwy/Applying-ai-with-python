@@ -1,0 +1,15 @@
+Talk ID: 18
+Speaker ID: 17
+Talk ID: 18
+Title: Power to the people who teach the people to code
+Speaker Name: Sheena O'Connell
+Speaker Profile URL: https://2024.za.pycon.org/users/sheena/
+Talk URL: https://2024.za.pycon.org/talks/46-power-to-the-people-who-teach-the-people-to-code/
+
+Abstract:
+Teaching people to code is...tricky.
+Software development and teaching are two distinct skill sets, yet people with technical skills are often put into a position where they are meant to teach others, this might be through workplace mentorship, community involvement, or through being hired to teach (for example, in a bootcamp). They are often expected to succeed with very little or no teacher training at all. A lot of common practice is very ineffective.
+Many think that when it comes to teaching, you either have it or you don't. I'm happy to inform you that those people are mistaken.
+Teaching and learning is something that has been well studied. There are techniques, patterns, and anti-patterns. There are skills that can be learned and practiced.
+I've been working in alternative education for a number of years, and the people who graduate from the courses I've put together tend to do really well for themselves.
+In this talk, I'd like to share a few of the things I've learned over the years. We'll cover studies, mindsets, mechanisms, patterns, and anti-patterns.  The Python community is full of people with teacher's hearts. My goal is to amplify their efforts.

@@ -1,0 +1,7 @@
+Speaker ID: 5
+Talk ID: 5
+Photo URL: No photo available
+Bio Part 1: Alta Saunders is a Data Scientist at Praelexis.
+Name: Alta Saunders
+Profile URL: https://2024.za.pycon.org/users/zietsmana/
+Speaker ID: 5

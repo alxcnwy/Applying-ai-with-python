@@ -1,0 +1,10 @@
+Speaker ID: 26
+Talk ID: 27
+Photo URL: No photo available
+GitHub: https://github.com/Divya063
+Bio Part 1: Other Social:https://www.linkedin.com/in/divya-rani-23924481/
+Bio Part 2: github profile:https://github.com/Divya063
+Bio Part 3: Divya is currently working as a backend engineer at Gitlab. Previously she worked for VMware and HackerRank. She has participated in various open source projects and her interests lie at the intersection of machine learning and distributed systems.
+Name: Divya Rani
+Profile URL: https://2024.za.pycon.org/users/Divya063/
+Speaker ID: 26

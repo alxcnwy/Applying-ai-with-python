@@ -1,0 +1,10 @@
+Speaker ID: 32
+Talk ID: 33
+Photo URL: No photo available
+GitHub: https://github.com/drnlm
+Bio Part 1: github profile:https://github.com/drnlm
+Bio Part 2: bitbucket profile:https://bitbucket.org/drnlm/
+Bio Part 3: Myself, some of the time.
+Name: Neil Muller
+Profile URL: https://2024.za.pycon.org/users/drnlmza/
+Speaker ID: 32

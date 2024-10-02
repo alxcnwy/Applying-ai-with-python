@@ -1,0 +1,12 @@
+Talk ID: 10
+Speaker ID: 9
+Talk ID: 10
+Title: A Novel Way of Creating Multi-Tenant Apps using Django... No Third Party Packages Apply!
+Speaker Name: Shaun De Ponte
+Speaker Profile URL: https://2024.za.pycon.org/users/nawtybean3d/
+Talk URL: https://2024.za.pycon.org/talks/35-a-novel-way-of-creating-multi-tenant-apps-using-django-no-third-party-packages-apply/
+
+Abstract:
+Imagine building a software-as-a-service platform where each client has their own secure space, yet managing it all feels like juggling too many balls at once. How do you ensure that each tenant’s data remains isolated, yet accessible, without losing your sanity—or compromising on performance?
+Join Shaun De Ponte as he addresses this challenge head-on with his innovative approach to constructing multi-tenant applications using Django's Admin, enhanced with Jazzmin for sleek styling. In this session, Shaun will showcase how to effortlessly manage tenant separation through sub-domains, ensuring crystal-clear data isolation and streamlined CRUD operations, all within a database-agnostic framework.
+Whether you're just dipping your toes into multi-tenancy or seeking to refine your existing approach, this talk will equip you with the tools and insights to confidently build scalable, secure multi-tenant applications. Plus, you’ll leave with a ready-to-use cookie cutter project, giving you a head start on your next big idea.

@@ -1,0 +1,12 @@
+Talk ID: 22
+Speaker ID: 21
+Talk ID: 22
+Title: Duck, Duck, Python: OLAP Data with DuckDB
+Speaker Name: Luis de Sousa
+Speaker Profile URL: https://2024.za.pycon.org/users/luisdza/
+Talk URL: https://2024.za.pycon.org/talks/53-duck-duck-python-olap-data-with-duckdb/
+
+Abstract:
+🦆 DuckDB is an in-process OLAP SQL database that can use Python to supercharge your data analysis. It integrates seamlessly with Pandas, letting you process data locally and quickly with SQL, making it an excellent alternative for performance-heavy tasks.
+🦆 This session will show you how DuckDB makes working with large datasets and complex queries a breeze. We’ll also compare it to Pandas and Polars, highlighting where DuckDB shines regarding speed and scalability. Plus, we’ll dive into practical examples, showing how easy it is to use DuckDB for data ingestion and querying in Python.
+🦆 If you’re a data scientist or analyst looking to speed up your workflows and make your data analysis more efficient, DuckDB might be the solution you’re looking for.

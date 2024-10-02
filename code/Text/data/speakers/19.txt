@@ -1,0 +1,6 @@
+Speaker ID: 19
+Talk ID: 20
+Photo URL: No photo available
+Name: :David Campey
+Profile URL: https://2024.za.pycon.org/users/campey/
+Speaker ID: 19

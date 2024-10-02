@@ -1,0 +1,10 @@
+Speaker ID: 28
+Talk ID: 29
+Photo URL: No photo available
+GitHub: https://github.com/Kanhalelor
+Bio Part 1: Twitter Profile link:https://x.com/kanhalelor
+Bio Part 2: github profile:https://github.com/Kanhalelor
+Bio Part 3: I am a master’s degree student at the University of Namibia, currently studying towards a master’s degree in Educational Technology. Additionally, I hold a certificate in Big Data Technologies from the Namibia University of Science and Technology (NUST). I am passionate about teaching, learning, and software development.
+Name: Robson Kanhalelo
+Profile URL: https://2024.za.pycon.org/users/Kanhalelor/
+Speaker ID: 28

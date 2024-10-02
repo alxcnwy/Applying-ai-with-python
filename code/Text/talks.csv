@@ -1,0 +1,66 @@
+Title,Speaker,Track,Type,Room,Time,Duration,Abstract
+Applying AI with Python,Alex Conway,Data Science,Talk,Lefthand Room / Main Hall,Oct 04 (Fri): 11:30,0:45,"Artificial Intelligence (AI) is transforming industries and our lives by enabling computers to solve increasingly complex tasks, and Python stands at the forefront of this revolution. In this talk, we will explore how Python's rich ecosystem of AI libraries and frameworks can be harnessed to quickly solve real-world problems without needing a PhD. From computer vision to time series analysis to natural language processing and AI agents, this session will demonstrate practical AI applications in real-world use cases that leverage Python's versatility so you can get started using AI right away.
+By the end of the session, you will have a broad overview of AI and of the Python AI landscape together with an understanding of how Python can be used to integrate AI into your projects. The talk will provide practical examples, code snippets, and tips for getting started on building AI-driven solutions. Whether you're a beginner or an experienced developer, this talk will offer valuable insights into applying AI to solve real-world challenges with Python.
+Talk Outline:
+Introduction to AI concepts
+Why Python is the go-to language for AI
+Tabular data
+Computer vision
+Time series
+Text Data
+AI Agents
+Conclusion
+Key Takeaways:
+A solid conceptual foundation for how to apply AI
+Knowledge of the Python libraries and tools useful for AI
+Realizing that you don't need to be a math genius to build with AI"
+Harnessing the Power of Community: Lessons from Speedrunning for the Python Ecosystem and Beyond,Nunudzai Mrewa,Other,Talk,Righthand Room,Oct 04 (Fri): 10:15,0:45,"Speedrunning, the art of completing video games as quickly as possible, has evolved into a vibrant community that exemplifies the power of community-driven innovation and collaboration. This talk delves into the fascinating world of speedrunners, highlighting how their collective efforts uncover hidden game mechanics and vulnerabilities that often elude traditional testing methods. By openly sharing knowledge and tools, speedrunners have not only broken records but also provided invaluable insights for game developers in areas such as testing, QA, and game balance.
+The talk will explore the transferable skills and approaches of the speedrunning community, demonstrating how these principles can be applied to other industries. l will discuss how the collaborative spirit, open sharing of knowledge, and innovative problem-solving techniques can drive advancements specifically in software development  and cybersecurity, and beyond. By understanding the methodologies and mindset of speedrunners, attendees will gain practical insights into fostering innovation and achieving greater outcomes through community and collaboration."
+It’s About Time: Time-Series Forecasting with Darts,Brenden Taylor,Data Science,Talk,Lefthand Room / Main Hall,Oct 03 (Thu): 10:25,0:45,"Along with the rise of “AI”, data-driven decision-making in businesses and organisations is also making a ‘buzz phrase’ of itself. And for most organisations, time series forecasting is a crucial component of making informed decisions. This talk will cover
+Darts
+, a relatively new Python library aimed at making time series analysis and forecasting more accessible while still including a range of models, from classical statistical methods to newer deep learning techniques, all without needing to import many other Python libraries.
+In this talk, we will explore the tools
+Darts
+offers across the whole time series forecasting pipeline: preprocessing and anomaly detection, modelling (including ensembling), and performance evaluation and backtesting. We will start with an overview of the basic classes and components of
+Darts
+, followed by a demonstration of how to implement a basic ensemble model and visualise forecast results.
+Additionally, we will also discuss some key features of Darts that sets it apart from more traditional time series libraries. In particular, the ‘Pythonic’ structuring of its models to use the
+fit()
+and
+predict()
+methods we’ve all come to know and love, similar to the popular Python
+scikit-learn
+library. We will also discuss some other advantages, such as the ease of including static past and future covariates, and encoders, as well as its integration with other popular Python libraries like
+pandas
+. As it’s a relatively new library, we will also discuss some of its current shortcomings.
+Whether you’re a data scientist, analyst or simply interested in time series forecasting in Python (who isn’t?!), this talk will provide you with a solid foundational understanding of
+Darts
+so that you can apply it to your own work and projects.
+Darts
+URL: https://unit8co.github.io/darts/"
+Monitoring and Evaluating LLM Apps with Langfuse,Ruan Pretorius,Data Science,Talk,Lefthand Room / Main Hall,Oct 03 (Thu): 12:15,0:45,"Overview:
+In the rapidly evolving landscape of AI, the ability to quickly iterate on prototypes and ensure robust performance of apps built around language models is crucial for developers and data scientists. This talk focuses on leveraging free and open-source tools to build, monitor, and evaluate LLM applications, providing a cost-effective approach to rapid development and deployment within the Python ecosystem.
+Topics Covered:
+Setting up local LLMs for fast prototyping (7 min):
+Using Ollama for easy setup and deployment on local machines.
+Running LLMs locally to build and test prototypes without incurring costs.
+Monitoring LLM apps with Langfuse (15 min):
+Introduction to Langfuse, an open-source LLM engineering platform.
+Configuring Langfuse for tracing and evaluation.
+Implementing Langfuse's Python decorator and SDK for detailed monitoring.
+LLM-assisted evaluation (7 min):
+Using Langfuse to set up evaluation datasets and scoring responses of your LLM app.
+Target Audience and Takeaways:
+This talk is aimed at developers and data scientists who are interested in monitoring and optimising their LLM applications. By the end of the session, attendees will have a better understanding of how to set up and monitor their LLM apps using Langfuse, as well as how to leverage local LLMs for rapid prototyping and evaluation. They will walk away with actionable insights and practical knowledge to enhance their workflows, making their AI solutions more efficient and reliable."
+Leveraging the NLTK library for Translation: A Case Study of Dyula-French Translation,Alta Saunders,Data Science,Talk,Lefthand Room / Main Hall,Oct 03 (Thu): 11:30,0:45,"In the field of natural language processing (NLP), transformer models and the Transformers library have started to become the go to for translation and other NLP tasks. However, resource requirements and data restrictions might not be favourable for transformer models and the use of other python libraries and resources should be considered. This talk will explore the potential of the Natural Language Toolkit (NLTK) python library in building an effective translation model, specifically for languages with limited training data.
+In this talk we will look at an overview of  the NLTK library tools available for NLP tasks such as translation, emphasising their simplicity, efficiency, and accessibility relative to resource-intensive transformer counterparts.
+To highlight how the NLTK library can be used for translation, we will look at a practical case study: translating Dyula to French, a scenario underscored by Dyula's status as an under-resourced language with limited translation data. Here, NLTK's tools will be leveraged to construct a Lexical model for translation, illustrating how NLTK mitigates challenges posed by limited datasets. By focussing on an under-resourced language, this talk will highlight how these limitations can be overcome by utilizing the tools provided within the NLTK library to create a translation model.
+The talk will further highlight the benefits of using the NLTK library for translation by highlighting the advantages of the NLTK library such as ease of use, lower resource requirements and robustness with smaller datasets. To highlight the benefits a comparison will be made between the implementing a translation model using the popular Transformer library, looking at the memory usage, latency and translation performance.
+The simplicity and ease of use of the NLTK library makes it an excellent choice for both beginners and experienced practitioners in NLP, with this talk highlighting the capabilities of this library for NLP tasks.
+Below is a brief break down of the talk structure:
+Overview of NLP and translation models.
+Discussing of  the challenges and limitations of translation tasks that are often seen.
+Overview of the NLTK library, with a deeper dive in how it can be utilised for translation.
+Showcase how to create a translation model through a practical case study: Translating Dyula to French.
+Comparison of the benefits of using the NLTK library compared to other popular translation libraries and tools, highlight when it can be beneficial to rather use the NLTK library.
+Questions"

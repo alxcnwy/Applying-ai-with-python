@@ -1,0 +1,10 @@
+Speaker ID: 23
+Talk ID: 24
+Photo URL: No photo available
+Twitter: https://twitter.com/SouravSaha97589
+Bio Part 1: Twitter Profile link:https://twitter.com/SouravSaha97589
+Bio Part 2: Other Social:https://www.linkedin.com/in/sourav-%E3%82%BD%E3%82%A6%E3%83%A9%E3%83%96-saha-%E3%82%B5%E3%83%8F-a5750259/
+Bio Part 3: Sourav has 11+ years of professional experience at NEC Corporation in the diverse fields of High-Performance Computing, Distributed Programming, Compiler Design, and Data Science. Currently, his team at NEC R&D Lab, Japan, is researching various data processing-related algorithms. Blending the mixture of different niche technologies related to compiler framework, high-performance computing, and multi-threaded programming, they have developed a Python library named FireDucks with highly compatible pandas APIs for DataFrame-related operations. In his previous engagements, he has worked in research and development of performance-critical AI and Big Data solutions, optimization of several legacy applications related to weather prediction, earth-quake simulation, etc., written in C++ and Fortran. He has been speaking at several meetups and technical conferences related to HPC and Data Science.
+Name: Sourav Saha
+Profile URL: https://2024.za.pycon.org/users/qsourav/
+Speaker ID: 23

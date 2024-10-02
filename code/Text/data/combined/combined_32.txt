@@ -1,0 +1,26 @@
+Talk ID: 32
+Speaker ID: 31
+
+--- Talk Data ---
+Talk ID: 32
+Title: Modern web frontend development with Python, HTMX and friends (part 2)
+Speaker Name: Sheena O'Connell
+Speaker Profile URL: https://2024.za.pycon.org/users/sheena/
+Talk URL: https://2024.za.pycon.org/talks/48-modern-web-frontend-development-with-python-htmx-and-friends-part-2/
+
+Abstract:
+This is the afternoon session for the full day "Modern web frontend development with Python, HTMX and friends" tutorial.
+See
+part 1
+for the full desciption.
+--- Speaker Data ---
+Photo URL: No photo available
+Fediverse: https://fosstodon.org/@sheena
+GitHub: https://github.com/sheenarbw/
+Bio Part 1: Twitter Profile link:https://x.com/sheena_oconnell
+Bio Part 2: Fediverse Profile link:https://fosstodon.org/@sheena
+Bio Part 3: github profile:https://github.com/sheenarbw/
+Bio Part 4: Sheena O’Connell has been programming since her early teens, and has worked on a wide array of projects and products, from embedded code and driver development for custom hardware, to microservice architecture, data pipelining and web development. She has taken active part in all phases of software development, from ideation to production; championed agile and devops practices and led dev teams to success.
+Bio Part 5: Sheena is an incredibly passionate educator. She has given hundreds of people a start in coding and tech through her non-profit work, either through direct guidance, or through training trainers and education system design. She is passionate about codifying good teaching and learning practices in order to better support the world’s tech educators.
+Name: Sheena O'Connell
+Profile URL: https://2024.za.pycon.org/users/sheena/

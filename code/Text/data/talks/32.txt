@@ -1,0 +1,13 @@
+Talk ID: 32
+Speaker ID: 31
+Talk ID: 32
+Title: Modern web frontend development with Python, HTMX and friends (part 2)
+Speaker Name: Sheena O'Connell
+Speaker Profile URL: https://2024.za.pycon.org/users/sheena/
+Talk URL: https://2024.za.pycon.org/talks/48-modern-web-frontend-development-with-python-htmx-and-friends-part-2/
+
+Abstract:
+This is the afternoon session for the full day "Modern web frontend development with Python, HTMX and friends" tutorial.
+See
+part 1
+for the full desciption.

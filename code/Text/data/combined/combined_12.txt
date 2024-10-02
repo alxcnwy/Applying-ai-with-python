@@ -1,0 +1,21 @@
+Talk ID: 12
+Speaker ID: 11
+
+--- Talk Data ---
+Talk ID: 12
+Title: Implementing an HPy Backend for Cython
+Speaker Name: Du Toit Spies
+Speaker Profile URL: https://2024.za.pycon.org/users/DuToitSpies/
+Talk URL: https://2024.za.pycon.org/talks/38-implementing-an-hpy-backend-for-cython/
+
+Abstract:
+HPy (https://hpyproject.org/) is a new API for extending Python with C, and is intended as an alternative to the existing C API. It is designed to have zero overhead on CPython while being much faster on alternate implementations such as GraalPy (https://www.graalvm.org/python/) and PyPy (https://pypy.org/) (don’t worry, all of this will be explained in the talk).
+Many Python tools still use  the C API, which harms their performance on GraalPy and PyPy. One such tool is Cython. Cython is a program that compiles Python code to C code for improved performance. The generated C files use the C API. We created an HPy backend for Cython, which replaces instances of the C API with the equivalent HPy code. This involved changing C API functions and structures to the equivalent ones in HPy, as well as reorganising the Cython source code to let it generate HPy-compliant code. We can create modules using HPy to handle data structures, function calls, and class creation with Cython.
+After benchmarking our code on the C API and HPy on both CPython and GraalPy, we found that our HPy version of Cython can perform on GraalPy at speeds equivalent to the C API on CPython for some benchmarks, while on the other benchmarks our backend performed better than the C API on GraalPy, while still underperforming CPython. We also identified parts of HPy that need to be optimised further to ensure performance gains on all benchmarks.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/DuToitSpies
+Bio Part 1: github profile:https://github.com/DuToitSpies
+Bio Part 2: I'm an MSc student at UCT in Cape Town, South Africa. My research focuses on creating a backend for Cython that uses the new HPy API to bind C code to Python, rather than the existing C API.
+Name: Du Toit Spies
+Profile URL: https://2024.za.pycon.org/users/DuToitSpies/

@@ -10,3 +10,4 @@ matplotlib==3.6.0
 seaborn==0.12.1     
 opencv-python==4.6.0 
 ultralytics==8.0.0  
+llama-stack

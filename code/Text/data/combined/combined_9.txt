@@ -1,0 +1,26 @@
+Talk ID: 9
+Speaker ID: 8
+
+--- Talk Data ---
+Talk ID: 9
+Title: Level up your developer experience with Kubernetes
+Speaker Name: Roché Compaan
+Speaker Profile URL: https://2024.za.pycon.org/users/rochecompaan/
+Talk URL: https://2024.za.pycon.org/talks/33-level-up-your-developer-experience-with-kubernetes/
+
+Abstract:
+In today's fast-paced development landscape, the efficiency and consistency of your development environment can significantly impact your productivity and output quality. This presentation explores how Kubernetes can revolutionize the developer experience by providing a standardized, containerized environment that ensures all developers work with the same stack, locally or remotely. With Kubernetes, deployment becomes declarative, seamless, and easily replicable across different environments, from development to production.
+We'll delve into practical strategies for adopting Kubernetes in your organization, including containerizing applications, planning with both developers and DevOps teams, and conducting proof-of-concept sprints. Additionally, we'll compare Docker Compose with Kubernetes, highlighting the benefits of using Kubernetes for managing complex, multi-service applications. Leveraging tools like Kind, Tilt, and Nix can streamline your development workflow, enabling rapid feedback loops and more efficient debugging.
+Join me to learn how Kubernetes can enhance your developer experience, reduce vendor lock-in, and lower infrastructure costs while providing a robust, scalable environment that grows with your application needs.
+What is Python-specific about this talk?
+It uses the Python tool Scaf (https://github.com/sixfeetup/scaf) to show how to bootstrap a new development environment with a local Kubernetes cluster in minutes. We'll use Scaf to deploy a Django app with a Postgres backend and a Redis cache to a locally running Kubernetes cluster.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/rochecompaan/
+Bio Part 1: Fediverse Profile link:https://mastodon.online/@rochecompaan
+Bio Part 2: Other Social:https://www.linkedin.com/in/roch%C3%A9-compaan-77461b/
+Bio Part 3: github profile:https://github.com/rochecompaan/
+Bio Part 4: I'm a full-stack coder and DevOps veteran with 25 years of experience. I'm the founder of Upfront Software and the lead architect at Six Feet Up. 🚀 When not crafting code or designing systems, you'll find me running marathons 🏃 or training champion agility dogs 🐕.
+Bio Part 5: I'm passionate about streamlining the dev experience and making deployments robust using Kubernetes.
+Name: Roché Compaan
+Profile URL: https://2024.za.pycon.org/users/rochecompaan/

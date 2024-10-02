@@ -1,0 +1,12 @@
+Speaker ID: 29
+Talk ID: 30
+Photo URL: No photo available
+GitHub: https://github.com/czue/
+Bio Part 1: Twitter Profile link:https://x.com/czue
+Bio Part 2: Fediverse Profile link:https://mastodon.social/@czue
+Bio Part 3: github profile:https://github.com/czue/
+Bio Part 4: Cory Zue is a developer, entrepreneur and writer who runs multiple online businesses. He is best known for SaaS Pegasus - the SaaS Boilerplate for Django developers which has been used to start more than 1,000 projects. He also created Place Card Me - a site to make printable place cards, and Scriv.ai - an application for creating private chatbots on your own data.
+Bio Part 5: From 2007-2017 Cory served as CTO of Dimagi and led the team that built its flagship product: CommCare. He is now an advisor to the organization.
+Name: Cory Zue
+Profile URL: https://2024.za.pycon.org/users/czue/
+Speaker ID: 29

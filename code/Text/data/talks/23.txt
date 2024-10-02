@@ -1,0 +1,38 @@
+Talk ID: 23
+Speaker ID: 22
+Talk ID: 23
+Title: Differentiation Engines: The Elves behind the AI Christmas
+Speaker Name: Rajdeep Singh
+Speaker Profile URL: https://2024.za.pycon.org/users/singhsegv/
+Talk URL: https://2024.za.pycon.org/talks/23-differentiation-engines-the-elves-behind-the-ai-christmas/
+
+Abstract:
+What do all recent advancements in LLMs, Computer Vision, and State-of-the-Art deep learning models have in common? They rely on frameworks like TensorFlow, PyTorch, and JAX. And what do all these frameworks have in common? They are all underpinned by numerical differentiation engines.
+This talk will provide a good overview on:
+The different mathematical differentiation techniques and libraries within the Python ecosystem.
+An in-depth look at what powers modern machine learning frameworks.
+Automatic Differentiation engines and their rising dominance in recent years.
+I will focus on the array of techniques available, such as numerical differentiation, symbolic differentiation, and why automatic differentiation is increasingly preferred for machine learning applications. This discussion, tailored for the Python ecosystem, will adopt a code-first approach without delving deeply into the underlying mathematics. Tentative structure of the talk:
+Introduction
+[2-3 minutes]
+Overview of the agenda.
+What attendees will learn from this talk and what will not be covered (specifically, intricate mathematical theories).
+Quick mathematical refresher
+[4-5 minutes]
+Basic calculus including differentiation of expressions involving multiplication and addition operations.
+Understanding gradients and their role in the machine learning ecosystem.
+Algorithmic Differentiation
+[7-10 minutes]
+Various methods to perform mathematical differentiation in code: Numerical, Symbolic, and Automatic.
+Implementation techniques: Operator overloading vs. Source Code transformation.
+Automatic Differentiation
+[12-15 minutes]
+Mechanisms of Automatic Differentiation (AD).
+Exploring Forward and Reverse mode AD. [Since it's a big topic, this will only be a short overview]
+What the famous kids are using - PyTorch, TensorFlow, Google JAX
+Some unsung heroes - Chainer, Google Tangent, Autograd
+QnA
+[10 minutes]
+Addressing any questions
+Expected Takeaways
+: Attendees will gain an understanding of the mathematical operations that underpin ML frameworks and how they are implemented behind the scenes. Some knowledge about the unsung heroes like Chainer, Google Tangent and HIPS autograd that shaped the modern DL frameworks.

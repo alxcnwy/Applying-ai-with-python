@@ -1,0 +1,24 @@
+Talk ID: 21
+Speaker ID: 20
+
+--- Talk Data ---
+Talk ID: 21
+Title: Maintaining a PLC communication library called python-snap7 without owning a PLC
+Speaker Name: Gijs Molenaar
+Speaker Profile URL: https://2024.za.pycon.org/users/gijsm/
+Talk URL: https://2024.za.pycon.org/talks/52-maintaining-a-plc-communication-library-called-python-snap7-without-owning-a-plc/
+
+Abstract:
+Python-snap7 is a Python library that enables seamless communication between a computer and Siemens PLCs (Programmable Logic Controllers). With over 20,000 downloads per month, 643 GitHub stars, and 246 forks, the library is used globally in critical industries—ranging from water purification plants to some unknown departments at NASA.
+For the past 11 years, I've had the honour of maintaining this library without ever owning or working directly with a PLC myself. In this talk, I'll share the journey that led me to create and maintain Python-snap7, along with stories, challenges, and insights from this adventure.
+The intended audience for this talk is people who want to know more about how to maintain an open-source project and lower the contribution threshold as much as possible. You don't need to know what a PLC is.
+https://github.com/gijzelaerr/python-snap7
+--- Speaker Data ---
+Photo URL: No photo available
+Twitter: http://twitter.com/gijzelaerr
+GitHub: https://github.com/gijzelaerr
+Bio Part 1: Twitter Profile link:http://twitter.com/gijzelaerr
+Bio Part 2: github profile:https://github.com/gijzelaerr
+Bio Part 3: Software composer, music brewer, beer flyer, drone programmer.  Former Scientific Software Engineer at SKA, now Senior System Engineer at Spotify.
+Name: Gijs Molenaar
+Profile URL: https://2024.za.pycon.org/users/gijsm/

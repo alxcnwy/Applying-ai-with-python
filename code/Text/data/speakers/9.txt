@@ -1,0 +1,11 @@
+Speaker ID: 9
+Talk ID: 10
+Photo URL: No photo available
+GitHub: https://github.com/nawtybean
+Bio Part 1: Other Social:https://www.linkedin.com/in/shaundeponte/
+Bio Part 2: github profile:https://github.com/nawtybean
+Bio Part 3: As a Senior Data Engineer at Calybre, Shaun De Ponte leverages his Python, Azure, and Machine Learning skills to design, build, and optimize data pipelines and architectures for various clients and projects. He has 5 years of experience in data engineering and software development, working with diverse technologies and domains such as Django, Web Development, NLP, and OCR.
+Bio Part 4: Shaun holds an MSc in Business Analytics from Aston University, where he focused on Machine Learning and its applications in business problems. He is also the founder and software engineer of BrightInvoice, an open-source invoice generator solution for small businesses. Shaun is passionate about data and its potential to create value and insights for organizations and individuals. He is always eager to learn new tools and techniques, and to collaborate with other data enthusiasts and professionals.
+Name: Shaun De Ponte
+Profile URL: https://2024.za.pycon.org/users/nawtybean3d/
+Speaker ID: 9

@@ -1,0 +1,24 @@
+Talk ID: 30
+Speaker ID: 29
+
+--- Talk Data ---
+Talk ID: 30
+Title: Using Coding Skills to Make Passive Income
+Speaker Name: Cory Zue
+Speaker Profile URL: https://2024.za.pycon.org/users/czue/
+Talk URL: https://2024.za.pycon.org/talks/30-using-coding-skills-to-make-passive-income/
+
+Abstract:
+In 2017, I stepped down from my job as CTO of a 150-person software company to see if I could make money selling my own software on the Internet. Seven years later, I am now a full-time “solopreneur”—running a portfolio of software products (written mostly in Python) as a full-time job. I now set my own hours, take vacation whenever I want, and, amazingly, earn more than I ever did as CTO.
+In this talk, I’ll share how I did it and what I learned in the process. I’ll share the skills Python programmers should pick up in order to start selling software on the web, including both technical  and non-technical ones. I’ll discuss how to get started, evaluating your ideas, building your product, and getting your first users and customers. The talk will draw from years of work building and selling software myself, as well as the experience I’ve gained from helping hundreds of others launch their own businesses.
+If you’ve ever wanted to turn your coding skills into revenue-generating side-projects, I hope this talk both inspires and helps you to get started.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/czue/
+Bio Part 1: Twitter Profile link:https://x.com/czue
+Bio Part 2: Fediverse Profile link:https://mastodon.social/@czue
+Bio Part 3: github profile:https://github.com/czue/
+Bio Part 4: Cory Zue is a developer, entrepreneur and writer who runs multiple online businesses. He is best known for SaaS Pegasus - the SaaS Boilerplate for Django developers which has been used to start more than 1,000 projects. He also created Place Card Me - a site to make printable place cards, and Scriv.ai - an application for creating private chatbots on your own data.
+Bio Part 5: From 2007-2017 Cory served as CTO of Dimagi and led the team that built its flagship product: CommCare. He is now an advisor to the organization.
+Name: Cory Zue
+Profile URL: https://2024.za.pycon.org/users/czue/

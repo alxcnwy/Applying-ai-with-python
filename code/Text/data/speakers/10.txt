@@ -1,0 +1,13 @@
+Speaker ID: 10
+Talk ID: 11
+Photo URL: No photo available
+GitHub: https://github.com/sjnarmstrong
+Bio Part 1: github profile:https://github.com/sjnarmstrong
+Bio Part 2: Hi, I’m Sholto, a seasoned Machine Learning Engineer passionate about developing cutting-edge AI and data analytic solutions. I’ve had the pleasure of working on a range of impactful projects across various industries.
+Bio Part 3: Currently, at **Capitec Bank**, I’ve developed and productionized a Rules Engine for credit granting and fraud detection. Additionally, I’ve consulted on AI projects related to customized RAG Chatbot systems, focusing on improving system architectures and performance.
+Bio Part 4: My previous role at **IoT.NxT** (a subsidiary of Vodacom/Vodafone) involved leading a team to create scalable AI and data analytic solutions for IoT applications. I enhanced data analytics capabilities, streamlined agile processes, and optimized CI/CD pipelines for better efficiency.
+Bio Part 5: I hold a Master’s degree in Computer Engineering with a focus on Scene Understanding from the **University of Pretoria**, where I also completed my Bachelor’s and Honours degrees with distinction.
+Bio Part 6: Outside of work, I enjoy gymming, surfing, and solving Rubik’s cubes. These activities keep me motivated and help me tackle challenges with enthusiasm.
+Name: Sholto Armstrong
+Profile URL: https://2024.za.pycon.org/users/sjnarmstrong/
+Speaker ID: 10

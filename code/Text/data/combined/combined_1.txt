@@ -1,0 +1,36 @@
+Talk ID: 1
+Speaker ID: 1
+
+--- Talk Data ---
+Talk ID: 1
+Title: Applying AI with Python
+Speaker Name: Alex Conway
+Speaker Profile URL: https://2024.za.pycon.org/users/alxcnwy/
+Talk URL: https://2024.za.pycon.org/talks/11-applying-ai-with-python/
+
+Abstract:
+Artificial Intelligence (AI) is transforming industries and our lives by enabling computers to solve increasingly complex tasks, and Python stands at the forefront of this revolution. In this talk, we will explore how Python's rich ecosystem of AI libraries and frameworks can be harnessed to quickly solve real-world problems without needing a PhD. From computer vision to time series analysis to natural language processing and AI agents, this session will demonstrate practical AI applications in real-world use cases that leverage Python's versatility so you can get started using AI right away.
+By the end of the session, you will have a broad overview of AI and of the Python AI landscape together with an understanding of how Python can be used to integrate AI into your projects. The talk will provide practical examples, code snippets, and tips for getting started on building AI-driven solutions. Whether you're a beginner or an experienced developer, this talk will offer valuable insights into applying AI to solve real-world challenges with Python.
+Talk Outline:
+Introduction to AI concepts
+Why Python is the go-to language for AI
+Tabular data
+Computer vision
+Time series
+Text Data
+AI Agents
+Conclusion
+Key Takeaways:
+A solid conceptual foundation for how to apply AI
+Knowledge of the Python libraries and tools useful for AI
+Realizing that you don't need to be a math genius to build with AI
+--- Speaker Data ---
+Photo URL: No photo available
+Twitter: https://twitter.com/alxcnwy
+GitHub: https://github.com/alxcnwy
+Bio Part 1: Twitter Profile link:https://twitter.com/alxcnwy
+Bio Part 2: Other Social:https://www.linkedin.com/in/alxcnwy/
+Bio Part 3: github profile:https://github.com/alxcnwy
+Bio Part 4: I am a data scientist / hacker with 25 years of coding experience. I've built several startups including my AI development agency NumberBoost and most recently AiSupervision that did Y Combinator and raised several million dollars from VCs. I recently exited that startup and am now working on applied AI via www.numberboost.com
+Name: Alex Conway
+Profile URL: https://2024.za.pycon.org/users/alxcnwy/

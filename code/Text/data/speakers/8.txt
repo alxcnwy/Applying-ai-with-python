@@ -1,0 +1,12 @@
+Speaker ID: 8
+Talk ID: 9
+Photo URL: No photo available
+GitHub: https://github.com/rochecompaan/
+Bio Part 1: Fediverse Profile link:https://mastodon.online/@rochecompaan
+Bio Part 2: Other Social:https://www.linkedin.com/in/roch%C3%A9-compaan-77461b/
+Bio Part 3: github profile:https://github.com/rochecompaan/
+Bio Part 4: I'm a full-stack coder and DevOps veteran with 25 years of experience. I'm the founder of Upfront Software and the lead architect at Six Feet Up. 🚀 When not crafting code or designing systems, you'll find me running marathons 🏃 or training champion agility dogs 🐕.
+Bio Part 5: I'm passionate about streamlining the dev experience and making deployments robust using Kubernetes.
+Name: Roché Compaan
+Profile URL: https://2024.za.pycon.org/users/rochecompaan/
+Speaker ID: 8

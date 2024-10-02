@@ -1,0 +1,9 @@
+Speaker ID: 11
+Talk ID: 12
+Photo URL: No photo available
+GitHub: https://github.com/DuToitSpies
+Bio Part 1: github profile:https://github.com/DuToitSpies
+Bio Part 2: I'm an MSc student at UCT in Cape Town, South Africa. My research focuses on creating a backend for Cython that uses the new HPy API to bind C code to Python, rather than the existing C API.
+Name: Du Toit Spies
+Profile URL: https://2024.za.pycon.org/users/DuToitSpies/
+Speaker ID: 11

@@ -1,0 +1,13 @@
+Speaker ID: 22
+Talk ID: 23
+Photo URL: No photo available
+Twitter: https://twitter.com/SINGHSEGV
+GitHub: https://github.com/singhsegv
+Bio Part 1: Twitter Profile link:https://twitter.com/SINGHSEGV
+Bio Part 2: Other Social:https://medium.com/@rajdeepsingh
+Bio Part 3: github profile:https://github.com/singhsegv
+Bio Part 4: Rajdeep is a Research Associate at the Distributed Research on Emerging Applications and Machines Lab (DREAM:Lab) at the Indian Institute of Science (IISc) working on research around Uav-as-a-service and cross platform cloud computing platforms. Prior to this role, he led the Data Engineering team at Loco, one of India's largest esports platforms. Rajdeep is also a contributing author at Kodeco and a writer on Medium.
+Bio Part 5: In his free time, he likes to dabble with robotics and computer vision, applying both traditional methods and advanced deep learning techniques to broaden his expertise in these areas.
+Name: Rajdeep Singh
+Profile URL: https://2024.za.pycon.org/users/singhsegv/
+Speaker ID: 22

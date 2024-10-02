@@ -1,0 +1,12 @@
+Talk ID: 28
+Speaker ID: 27
+Talk ID: 28
+Title: Beyond the Pause: Exploring the Inner Workings of Python’s `sleep()`
+Speaker Name: Rupali Kavale
+Speaker Profile URL: https://2024.za.pycon.org/users/rkavale@andrew.cmu.edu/
+Talk URL: https://2024.za.pycon.org/talks/55-beyond-the-pause-exploring-the-inner-workings-of-pythons-sleep/
+
+Abstract:
+This talk is designed for Python developers who want to deepen their understanding of Python’s sleep() function, particularly its inner workings and how it interacts with operating systems and hardware. Whether you're a beginner curious about how Python handles time or an experienced developer looking to optimize code that relies on timing, this talk will take you through the technical journey of what happens behind the scenes when you use sleep().
+We’ll explore key concepts like blocking and non-blocking sleep, the use of the monotonic clock to ensure accurate sleep durations, and how sleep() interacts with OS-level system calls like nanosleep. Additionally, we'll discuss common challenges like overshooting due to system load, interruptions by system signals, and how sleep timing remains reliable even under adverse conditions.
+Attendees will leave with a deeper appreciation of Python's time management mechanics, enabling them to write more efficient and reliable code that interacts with timing functions. They'll also gain insight into handling sleep-related quirks in complex applications, enhancing their problem-solving skills in real-world scenarios.

@@ -1,0 +1,11 @@
+Talk ID: 36
+Speaker ID: 35
+Talk ID: 36
+Title: Software Development at the South African Radio Astronomy Observatory
+Speaker Name: SARAO
+Speaker Profile URL: https://2024.za.pycon.org/users/SARAO/
+Talk URL: https://2024.za.pycon.org/talks/59-software-development-at-the-south-african-radio-astronomy-observatory/
+
+Abstract:
+SARAO
+A talk by our gold sponsor

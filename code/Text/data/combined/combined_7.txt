@@ -1,0 +1,23 @@
+Talk ID: 7
+Speaker ID: 6
+
+--- Talk Data ---
+Talk ID: 7
+Title: Mental Illness and Vulnerability in Tech
+Speaker Name: Schalk Venter
+Speaker Profile URL: https://2024.za.pycon.org/users/schalkventer/
+Talk URL: https://2024.za.pycon.org/talks/27-mental-illness-and-vulnerability-in-tech/
+
+Abstract:
+In his seminal “Noonday Demon: An Atlas of Depression”, Andrew Solomon remarked that there is an entire world of silent “agonizing lives in invisible wheelchairs, dressed in invisible bodycasts".
+It is becoming increasingly apparent that the tech sector is no exception. In the recent “Mental Health in Tech Survey" (https://osmihelp.org/research.html) only 30.7% of respondents indicated that they “feel comfortable discussing mental health with coworkers”. This seems unsurprising, given that when mental health was discussed only 33.6% of respondents “experienced or observed a supportive or well-handled response”.
+As someone with a history of mental illness myself, I spent the last year conducting interviews with individuals struggling with mental health in the tech sector. In addition, I also interviewed legal and therapeutic practitioners to create a list of avenues of support you are legally entitled to as a South African citizen. In this talk, I hope to share some insights uncovered during this personal investigation.
+--- Speaker Data ---
+Photo URL: No photo available
+GitHub: https://github.com/schalkventer
+Bio Part 1: Twitter Profile link:https://x.com/schalkventerdev
+Bio Part 2: Other Social:https://www.linkedin.com/schalkventer
+Bio Part 3: github profile:https://github.com/schalkventer
+Bio Part 4: Schalk is a software engineer and product design consultant working on various personal, commercial, and open-source projects. He usually finds himself at the intersection of interaction design and engineering, having done contract work for National Treasury, The Google Foundation, Replit, Sea Monster Entertainment, Seedstars, CSS-Tricks, and various others. He has lectured in a senior capacity at the Academy of Digital Arts, codeX, Open Window, and the University of Pretoria, and co-created the Interaction Design degree at Cape Town Creative Academy. He also co-founded Front-end Development South Africa (FEDSA) and South African Product Design (ZAPD).
+Name: Schalk Venter
+Profile URL: https://2024.za.pycon.org/users/schalkventer/

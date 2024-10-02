@@ -1,0 +1,13 @@
+Speaker ID: 25
+Talk ID: 26
+Photo URL: No photo available
+GitHub: https://github.com/adeline-pepela
+Bio Part 1: github profile:https://github.com/adeline-pepela
+Bio Part 2: Am passionate to see young people in my generation actualize the vast learning and working opportunities emerging with modern technology.
+Bio Part 3: Especially, I lead and mentor tech community initiatives that seek to equally include the participation of young people into cloud technology ecosystems in East Africa.
+Bio Part 4: I leverage my networks, skills and influence to inspire and guide, to nurture talent and empower, to foster a collaborative environment, and to create opportunities for the young within the tech community.
+Bio Part 5: As a dedicated mobilizer and mentor, I bring a wealth of experience and expertise in the fields of Cloud and Telecommunication Engineering. Whether leading teams through the full project lifecycle or mentoring aspiring professionals, my commitment is to excellence, professionalism and inclusion.
+Bio Part 6: Additionally, I have extensive experience and proficiency in emerging technologies, leveraging Amazon Web Services (AWS) to architect scalable and resilient solutions. I bring a strong understanding of technology principles and track record of object-oriented approach for innovation and efficiency when executing projects
+Name: Adeline Makokha
+Profile URL: https://2024.za.pycon.org/users/amakokha/
+Speaker ID: 25
