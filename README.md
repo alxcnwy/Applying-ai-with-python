@@ -10,12 +10,16 @@
 ░▒▓█▓▒░         ░▒▓█▓▒░    ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░
 ```
 
-Slides and code for "Applying AI with Python" talk at PyConZA 2024.
+Slides and code for ["Applying AI with Python"](https://za.pycon.org/talks/11-applying-ai-with-python/) talk at [PyConZA](https://za.pycon.org/) 2024.
 
 This code introduces a novel agent architecture that demonstrates self-reflection, tool use and reasoning.
 
 ![Agent Architecture](https://github.com/alxcnwy/Applying-AI-with-Python---PyConZA-2024/blob/main/images/agent_architecture.png)
 
+## Slides and Video
+Slides are in this repo.
+
+Video coming soon.
 
 ## Code Examples
 * Tables
