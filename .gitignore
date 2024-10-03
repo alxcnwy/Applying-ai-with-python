@@ -12,3 +12,4 @@ venv/*
 
 faiss_index/*
 
+~$slides.pptx
