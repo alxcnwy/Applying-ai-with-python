@@ -32,7 +32,23 @@ This code introduces a novel agent architecture that demonstrates self-reflectio
         * Use YOLO to detect objects in images   
     * `Segmentation.ipynb`
         * Use SAM2 to segment objects in images
-        
+* Speech
+  * `Transcribe.ipynb`
+    * Uses Whisper to transcribe podcast clips
+* Text
+  * `1. Scrape PyConZA2024.ipynb`
+    * Scrapes PyCon speaker data
+  * `2. ETL – Load Documents into Database.ipynb`
+    * Enriches speaker data and loads data into vector and SQL database
+  * `3. Rag.ipybn`
+    * Implements retrieval augmented generation (RAG) on the pycon data
+* Agents
+  * `Agent.ipynb`
+    * Implements agent with self-reflection and SQL tool use to improve RAG on conference data.
+
+## Contributions
+Welcome! Especially on the agent stuff :)
+
 ## Contact
 
 Speaker: **Alex Conway** 
